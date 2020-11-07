@@ -1,0 +1,5 @@
+env
+.idea
+src/.idea
+src/.ipynb*
+
