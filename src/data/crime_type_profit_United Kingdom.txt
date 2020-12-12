@@ -1,0 +1,307 @@
+name crime_type profit
+"Ms. Diane Barnett" theft 284
+"Elizabeth McDonald" theft 59
+"Jacqueline Martin-Winter" forgery 150
+"Roger Farmer" theft 378
+"Mrs. Georgina Harrison" theft 55
+"Peter Stevens" robbery 868
+"Georgina Bell" theft 365
+"Miss Lesley Sullivan" forgery 320
+"Keith Kelly" theft 399
+"Shane Bailey" forgery 495
+"Mr. Martin Walters" pickpocketing 7
+"Hugh Pearson-Bates" theft 340
+"Margaret Hall" theft 10
+"Kimberley Wilson" theft 165
+"Howard Buckley-Williams" pickpocketing 16
+"Ms. Tracey Dixon" "weapons sale" 156000
+"Mr. Connor Morgan" theft 334
+"Dr. Tracy Roberts" "drug sale" 39690
+"Henry Begum-Austin" pickpocketing 48
+"Dennis Coleman" "drug sale" 28440
+"Henry Martin" theft 186
+"Dr. Iain Williams" pickpocketing 46
+"Patricia Johnson" forgery 377
+"Dr. Arthur Jones" pickpocketing 10
+"Alan James" theft 189
+"Paige Chambers" theft 220
+"Sean O'Neill" theft 31
+"Dr. Barry Sharp" theft 130
+"Damian Sutton" robbery 538
+"Georgia Stone" theft 76
+"Nicole Jones" pickpocketing 29
+"Denis Glover-Gardner" theft 376
+"Janet Ali-White" pickpocketing 36
+"Alice Dobson" forgery 156
+"Linda Jones-Clarke" pickpocketing 41
+"Dr. Garry Smith" pickpocketing 30
+"Ms. Kirsty Harris" forgery 447
+"Paula Green" pickpocketing 23
+"Simon Vaughan" "drug sale" 13410
+"Janet Davies" robbery 20
+"Carolyn Reid" "weapons sale" 350000
+"Kate Martin" robbery 520
+"Nicholas Griffiths" theft 152
+"Jonathan Hale-Moore" forgery 322
+"Carol Dennis" theft 157
+"Dr. Abigail Parker" "drug sale" 36630
+"Tony Ford" theft 131
+"Chloe Miller-Smith" robbery 602
+"Harry Glover-Morton" robbery 928
+"Mr. Ashley Turner" theft 341
+"Howard Wells-Campbell" theft 272
+"Lee Jackson" theft 192
+"Julia Cook" theft 193
+"Leslie White" pickpocketing 31
+"Hugh Marshall" "drug sale" 25740
+"Clive Wright-Smith" forgery 305
+"Miss Carol Jones" theft 24
+"Dr. Danielle Hutchinson" pickpocketing 31
+"Anthony Mitchell" "weapons sale" 495000
+"Miss Jessica Murray" theft 92
+"Jennifer Adams" pickpocketing 30
+"Brandon Lowe" pickpocketing 29
+"Malcolm Cox-Mason" "weapons sale" 491000
+"Lynda Morris" forgery 428
+"Neil Taylor" theft 129
+"Dr. Clive Chapman" theft 256
+"Victor Cooper" "drug sale" 28800
+"Russell Barnett" "drug sale" 24660
+"Diane Lloyd" theft 211
+"Albert Walker" pickpocketing 13
+"Mrs. Abigail Shah" theft 268
+"Callum Harris" pickpocketing 37
+"Miss Lynne Ward" "weapons sale" 124000
+"Carly Baker-Foster" pickpocketing 11
+"Helen Stewart" theft 216
+"Mr. Joel Perry" theft 27
+"Martin Gough" theft 233
+"Lauren Bishop" robbery 256
+"Victor Walker" forgery 164
+"Melissa Doherty-Walsh" pickpocketing 4
+"Teresa Richardson" theft 67
+"Francesca Turner" theft 254
+"Dr. Richard Butler" robbery 840
+"Denise Campbell" robbery 914
+"Jodie Lynch" pickpocketing 39
+"Jenna Marshall" theft 156
+"Mr. Roger Barnett" theft 180
+"Ms. Molly Martin" theft 238
+"Marcus Poole-Anderson" theft 371
+"Mrs. Melanie Wilkinson" pickpocketing 43
+"Dr. Adam West" robbery 734
+"Hannah Johnson" theft 337
+"Jacob Price" robbery 708
+"Brandon Browne-Hamilton" theft 308
+"Maurice Welch-Connor" theft 196
+"Howard Thompson" "drug sale" 11790
+"Billy Ellis" theft 190
+"Ms. Joan Jones" theft 221
+"Frank Baker" "weapons sale" 334000
+"Mrs. Abbie Mason" theft 60
+"Dr. Brandon Wilson" pickpocketing 33
+"Stephen Alexander" theft 156
+"Lynda Taylor" "drug sale" 22320
+"Mr. Dominic Read" pickpocketing 33
+"Annette Murray" theft 89
+"Naomi Wells" theft 117
+"Iain Parsons" theft 205
+"Duncan Woods" theft 300
+"Peter French" theft 128
+"William Cooper" forgery 315
+"Ms. Abbie Farrell" forgery 381
+"Lisa Watson" theft 265
+"Mrs. Chelsea Wright" pickpocketing 48
+"Marion Davidson" theft 110
+"Mrs. Amber Ali" pickpocketing 22
+"Jamie Barnes" theft 155
+"Craig Buckley" theft 83
+"Chloe Thomas" theft 357
+"Leanne Hodgson-Jones" theft 92
+"Liam Harvey" forgery 555
+"Frances Young" pickpocketing 20
+"Mrs. Angela Carter" theft 283
+"Dr. Abigail Begum" robbery 938
+"Ms. Amelia Hunt" theft 324
+"Marc Bennett" "drug sale" 16020
+"Megan Fowler" theft 220
+"Diana Mitchell" "drug sale" 41940
+"Mohammed Scott-Lawrence" pickpocketing 38
+"Ms. Clare Butler" theft 340
+"Luke Harding" theft 169
+"Mary Daly-Newton" pickpocketing 45
+"Lewis Evans" theft 272
+"Miss Jemma Bull" pickpocketing 38
+"Katherine Watts" robbery 364
+"Ms. Hannah Lane" theft 394
+"Michelle Bull" theft 351
+"Janice Brown" theft 361
+"Geraldine Weston" pickpocketing 13
+"Ms. Victoria Watts" pickpocketing 22
+"Jennifer Smith" theft 31
+"Bradley Jackson-Johnson" robbery 408
+"Donna Griffiths-Miah" pickpocketing 10
+"Jason Rogers" "drug sale" 39600
+"Mrs. Amber Willis" theft 272
+"Hugh Cooper" pickpocketing 40
+"Maurice Simpson" theft 260
+"Shirley Wheeler" robbery 524
+"Bernard Carter" pickpocketing 36
+"Sandra Kirby" theft 44
+"Patrick Bradshaw-Dixon" forgery 561
+"Annette Ali" robbery 852
+"Dr. Mohammed Jackson" forgery 442
+"Kate Quinn" theft 120
+"Mr. Max Robinson" theft 106
+"Karen Fox" forgery 438
+"Sally Willis" "drug sale" 35190
+"Ronald Williams" robbery 812
+"Dylan Robson-Vaughan" robbery 548
+"Jane Shaw" theft 156
+"Lawrence Storey" "drug sale" 31860
+"Dr. Eric Taylor" theft 96
+"Valerie Smith" robbery 976
+"Joshua Mitchell" "weapons sale" 119000
+"Gerard Gill" theft 34
+"Frederick Jones" "weapons sale" 40000
+"Lesley Dean-Fowler" theft 355
+"Russell Thompson" theft 292
+"Miss Patricia Weston" robbery 30
+"Jeffrey Reeves" pickpocketing 18
+"Dr. Amelia Phillips" theft 216
+"Elizabeth White" robbery 86
+"Miss Jemma Ward" pickpocketing 18
+"Mrs. Ruth Jones" theft 145
+"Bethany Harrison" "drug sale" 22950
+"Benjamin Wilson" robbery 80
+"Dr. Ricky Robson" pickpocketing 7
+"Victoria Foster" robbery 766
+"Joel Riley" pickpocketing 4
+"Ms. Danielle Ward" robbery 656
+"Annette Booth" theft 76
+"Edward Ford" "drug sale" 43110
+"Karl Price" theft 350
+"Ashley Matthews-Parker" robbery 772
+"Carl Fox" theft 360
+"Molly Palmer" theft 100
+"Aimee Macdonald-Lewis" theft 356
+"Dr. Leslie Carr" theft 282
+"Dr. Dylan Smith" theft 24
+"Jake Johnson" theft 148
+"Eric McLean" theft 200
+"Roger Martin" robbery 448
+"Dr. Sean Wilson" theft 169
+"Mr. Jake Booth" "drug sale" 35730
+"Dr. Sean Smith" pickpocketing 31
+"Mrs. Claire Farrell" theft 380
+"Luke Wallis-Price" theft 284
+"Naomi Porter" theft 74
+"Mr. Leon Cartwright" pickpocketing 49
+"Nicole Cook" forgery 33
+"Ms. Claire Howarth" theft 180
+"Tom Blackburn" robbery 164
+"Ms. Alice Jackson" theft 216
+"Kenneth Barker" theft 364
+"Gordon Parker" "weapons sale" 467000
+"Emma Hill-Lewis" theft 86
+"Lee Schofield" robbery 138
+"Amelia Shah" theft 108
+"Ms. Sandra Jones" robbery 324
+"Dr. Sylvia Long" "drug sale" 11880
+"Mary Nicholls" theft 88
+"Andrew Moss-Smart" robbery 872
+"Ashleigh Green" "drug sale" 27090
+"Alex Tomlinson-Simpson" theft 309
+"Mr. Marcus Patel" theft 112
+"Dr. Hugh Walton" pickpocketing 45
+"Frances Palmer" theft 158
+"Mr. Liam Morrison" theft 43
+"Miss Jennifer Khan" "drug sale" 32400
+"Dr. Jasmine Jones" "drug sale" 39780
+"Mr. Stanley Berry" "drug sale" 29700
+"Chelsea White" robbery 786
+"Dr. Louis Barnes" forgery 405
+"Mr. Ben West" forgery 569
+"Miss Laura Wilson" "weapons sale" 27000
+"Dr. Carol Williams" robbery 772
+"Dorothy Thomas" theft 268
+"Ms. Joan Short" "drug sale" 38700
+"Gail Brookes" theft 277
+"Mary Allen" pickpocketing 28
+"Mr. Malcolm Price" robbery 66
+"Albert Wilson" theft 86
+"Darren Bibi" forgery 311
+"Dr. Adam Price" "drug sale" 9360
+"Lynn Anderson" theft 284
+"Miss Sarah Rhodes" theft 53
+"Ellie Cook" theft 22
+"Mr. Albert Barry" pickpocketing 40
+"Bernard Connor" pickpocketing 15
+"Ms. Kim Morgan" "drug sale" 25020
+"Mrs. Lauren Dawson" theft 82
+"Russell Green" theft 270
+"Gregory McLean-Quinn" theft 179
+"Jemma Carter" robbery 604
+"Dean Ward" theft 97
+"Samantha Wilkinson" pickpocketing 41
+"Andrew Smith" "weapons sale" 466000
+"Garry Hayes-Roberts" forgery 405
+"Abbie Bond" forgery 506
+"Rhys Evans" "drug sale" 990
+"Dr. Alice Armstrong" robbery 292
+"Rachael Evans" theft 43
+"Rhys O'Neill-Robertson" theft 162
+"Georgina Ball" robbery 194
+"Ben Cook" theft 136
+"Lynne Johnson-Simpson" "weapons sale" 10000
+"Sylvia Rowe" pickpocketing 35
+"Dr. Steven Brookes" theft 371
+"Angela Harrison" "drug sale" 29070
+"Mr. Stanley Vincent" "drug sale" 6030
+"Joel Russell" pickpocketing 30
+"Mrs. Jane Patel" theft 289
+"Adrian West" theft 376
+"Amanda Dixon" "drug sale" 20250
+"Chelsea Wilson" forgery 122
+"Jake Wallis-Cook" theft 316
+"Jean Jones" "weapons sale" 134000
+"Ms. Amelia Coles" forgery 382
+"Lauren Watson" theft 338
+"Martin Freeman" theft 232
+"Marian Black-Middleton" robbery 886
+"Raymond Allan-Steele" pickpocketing 46
+"Trevor Carter" theft 276
+"Suzanne Owen" robbery 192
+"Douglas Mitchell" pickpocketing 41
+"Sara Foster" robbery 974
+"Mr. Philip Powell" forgery 38
+"Katie Allen-Metcalfe" pickpocketing 23
+"Miss Lucy Armstrong" "drug sale" 1800
+"Jeffrey Saunders" theft 305
+"Dr. Eric Gordon" robbery 192
+"Shaun Macdonald" forgery 455
+"Ms. Hilary Smith" theft 165
+"Gerald Anderson" pickpocketing 22
+"Ms. Sandra Flynn" theft 88
+"Dr. Douglas James" theft 134
+"Denis Rowe" theft 36
+"Ms. Donna Jenkins" robbery 32
+"Kayleigh Smith" forgery 362
+"Nathan Harrison" theft 288
+"Melanie Morris" pickpocketing 45
+"Denise Moore" pickpocketing 20
+"Victor Frost" pickpocketing 47
+"Karen White-Harris" theft 348
+"Marie Fitzgerald" theft 386
+"Louise Chapman-Holmes" theft 323
+"Marc Robinson-Lowe" pickpocketing 6
+"Ms. Sandra Mitchell" theft 336
+"Daniel Kelly" robbery 418
+"Philip Williamson-O'Connor" theft 164
+"George Khan" "weapons sale" 420000
+"Ms. Kimberley Cooper" forgery 221
+"Kate Wright" robbery 364
+"Anthony Weston" pickpocketing 43
+"Charlie Booth" forgery 155
+"Rita Allen" pickpocketing 39
+"Mr. Leonard Marshall" "weapons sale" 281000

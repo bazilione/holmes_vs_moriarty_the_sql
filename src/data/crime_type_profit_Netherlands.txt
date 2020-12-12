@@ -1,0 +1,251 @@
+name crime_type profit
+"Kick van Holland" "weapons sale" 364000
+"Jet Brugman-le Floch" "drug sale" 25740
+"Kian van de Leemput" robbery 402
+"Fiene Fechant" theft 384
+"Gijs de Marduras" theft 252
+"Eva Adryaens-van Kempen" theft 42
+"Quinten Bakker" theft 90
+"Mika Mallien" pickpocketing 41
+"Saar Elsemulder" pickpocketing 24
+"Julius Blom" pickpocketing 22
+"Fenna Schilt" pickpocketing 32
+"Arie van Baalen" pickpocketing 28
+"Cornelis van Ghoerle" forgery 332
+"Leah Winters" "drug sale" 3510
+"Maarten van de Leemput" theft 176
+"Sepp Pastoors-Broeders" "drug sale" 19080
+"Annemijn Tillmanno-Miltenburg" theft 244
+"Luna Bolkesteijn-de Man" theft 392
+"Dylano van der Meulen" theft 207
+"Stella Hofman" pickpocketing 18
+"Cornelis Giselmeyer" theft 144
+"Lars Lommert" robbery 176
+"Tijn Barents" theft 148
+"Mara van Herstal" robbery 114
+"Rayan de Jong-le Luc" pickpocketing 8
+"Lily Walter" "weapons sale" 484000
+"Jay Eerden" "drug sale" 31500
+"Nynke Bernaards" theft 180
+"Noortje Bellemans" theft 390
+"Chloé Verhagen" theft 112
+"Ali de Wit" forgery 596
+"Stella van Oirschot" robbery 894
+"Aimée van der Kaay-Kisman" forgery 484
+"Mika Pasman" robbery 840
+"Yasmine Zaal-Langevoort" theft 248
+"Lieke van Northeim" "drug sale" 30510
+"Simon Wolters" pickpocketing 42
+"Fleur van der Heyden-Persijn" pickpocketing 28
+"Robin van Boven" robbery 360
+"Cornelis Bud" robbery 590
+"Lise de Graaf" pickpocketing 49
+"Jelte de Strigter-Lips" theft 298
+"Jelle Keijser-van 't Houteveen" theft 260
+"Muhammed Arent" theft 134
+"Elisabeth Symons-Teunissen" pickpocketing 5
+"Kick Spier-van Ham" theft 205
+"Benthe Genefaas" pickpocketing 4
+"Emir Brands" pickpocketing 8
+"Hidde Lagerweij" pickpocketing 25
+"Loïs Massa" robbery 612
+"Sepp van Maaren-van Oudewater" theft 18
+"Keano van der Spaendonck" pickpocketing 50
+"Silke Brandt" "drug sale" 10800
+"Dirk Dubois" robbery 26
+"Brian Spiker-Guit" theft 174
+"Sienna Vermeulen-van der Pol" theft 248
+"Liv Estey" robbery 44
+"Mia Vial" theft 328
+"Liam Coolen-Bruggeman" robbery 500
+"Aya Gnodde" pickpocketing 34
+"Nathan Furda" theft 180
+"Bilal Kolen-van Breukeleveen" robbery 376
+"Britt Uphaus" pickpocketing 41
+"Abel Greij" theft 46
+"Philip Heijmans" theft 179
+"Bart van Veen" pickpocketing 45
+"Muhammed Hazenveld" theft 168
+"Amina van Ochten" robbery 986
+"Anouk de Jode Vastraedsd" theft 66
+"Bente de Boer" pickpocketing 12
+"Sjoerd van Engeland-Kok" robbery 494
+"Gerrit van Amstel" "weapons sale" 199000
+"Rowan Briere" theft 312
+"Jan Goyaerts van Waderle" robbery 906
+"Lindsey Pons" theft 105
+"Tim van Riet" pickpocketing 22
+"Sanne Stange-Vergeer" forgery 297
+"Rayan Adryaens" forgery 16
+"Marinus Bellemans" forgery 272
+"Jolie Dorsman-Honing" forgery 412
+"Sarah Bijlsma" theft 93
+"Ayoub Ouwel" theft 204
+"Imran Buijs" "drug sale" 38970
+"Lily Becht-Becht" robbery 776
+"Veerle van der Veen" theft 388
+"Féline Remmers-van Schevinghuizen" forgery 209
+"Imran van Soest" robbery 242
+"Ayoub Aertsz" theft 192
+"Elise Groen" theft 13
+"Damian Hulst" pickpocketing 44
+"Owen Jacobs" forgery 494
+"Britt van Gorp" robbery 530
+"Dex de Plantard-van Tours" pickpocketing 46
+"Ella de Wit" "weapons sale" 175000
+"Bart Molen" pickpocketing 37
+"Eline Stamrood" theft 63
+"Noortje Demmendaal" "weapons sale" 241000
+"Mara Draaisma" pickpocketing 5
+"Noëlle Stamrood" robbery 746
+"Jolie Brands-van Noordeloos" theft 214
+"Berend Korstman-Appelman" pickpocketing 35
+"Lynn Roessink-van der Velde" "weapons sale" 206000
+"Fien van Dommelen" robbery 606
+"Vera Brouwer" theft 312
+"Tirza van Henegouwen" theft 35
+"Tim van der Laar" pickpocketing 25
+"Mila Thatcher" robbery 510
+"Sophie Meis" pickpocketing 46
+"Levi de Pauw" robbery 506
+"Bram Mansveld" "drug sale" 8550
+"Jesse van Emmelen" "drug sale" 3330
+"Lola van den Heuvel" theft 389
+"Naud Bave" theft 165
+"Livia de Roo-Jansen" theft 214
+"Nova Uphuis" pickpocketing 13
+"Matthijs die Bont" pickpocketing 27
+"Norah Vertooren-Dijkstra" theft 268
+"Femke Koster" robbery 250
+"Naomi Cadefau-Keltenie" theft 395
+"Dana Boer" forgery 274
+"Loek van der Klijn-van de Leemput" robbery 492
+"Tijmen van der Ven" theft 51
+"Jurre Recer" theft 29
+"Mart Nijman-Jekel" theft 272
+"Myrthe Verheuvel-Köster" robbery 936
+"Amira Broeckx" pickpocketing 43
+"Floortje Dekker-Schroeff" theft 344
+"Floor Verda" robbery 338
+"Ben van den Brand" pickpocketing 27
+"Maya le Gulcher" pickpocketing 12
+"Nadine van der Ven" theft 305
+"Bastiaan Willems" theft 227
+"Angelina Le Marec" theft 137
+"Dana Schiffer" robbery 40
+"Kim van Beieren" theft 108
+"Quinty Maas" robbery 556
+"Boris Wilcken" pickpocketing 35
+"Dean van Ooyen" theft 213
+"Jenna Eelman-Korsman" theft 23
+"Dave Timmermans-Verda" theft 12
+"Megan Heijman-Ouwerkerk" theft 81
+"Dana van Tours" theft 151
+"Indy Jacquot-Melet" theft 314
+"Loes van de Leemput-van Evelingen" pickpocketing 31
+"Adriana Vastenhouw" theft 171
+"Morris Molen" forgery 382
+"Tess VI" "drug sale" 10710
+"Vera van der Klein-Rijcken" theft 264
+"Nynke Bosch" theft 41
+"Lynn Mathieu" theft 17
+"Adam van de Pol-Konings" theft 195
+"Dylan Meyer" theft 352
+"Merle van Este" theft 367
+"Amy Ouwel" robbery 742
+"Loïs Vermeulen-Weeldenburg" pickpocketing 42
+"Jinthe Eelman-van Maaren" theft 307
+"Ceylin van Rijthoven" pickpocketing 18
+"Loek van Schevinghuizen-Brizee" theft 391
+"Sam Tamsma" pickpocketing 7
+"Merel Sestig" robbery 360
+"Jenna Verschuere" forgery 26
+"Luca Bosch" robbery 506
+"Elena van Haspengouw Hesbaye-Vandenbergh" theft 288
+"Loes Elbertse" robbery 482
+"Mike Hendriks" "drug sale" 24750
+"Levi Lommert" pickpocketing 27
+"Aylin Jasperdr." robbery 654
+"Felix Koning" robbery 822
+"Mika Schilt" pickpocketing 11
+"Bibi Bolkesteijn" theft 85
+"Teun Mathurin-Phillipsen" theft 43
+"Sander Hoppenbrouwer" pickpocketing 39
+"Liam Bruynzeels" forgery 240
+"Jules Hoedemakers-Coret" pickpocketing 2
+"Giovanni van Jumiège" pickpocketing 19
+"Isa Kleijse" "drug sale" 42480
+"Sofie de Bruijn" theft 136
+"Lex de Vries" theft 180
+"Ivan van Nederlotharingen" "drug sale" 43560
+"Aron Schagen" robbery 570
+"Esmee Claesner" theft 395
+"Lizz Olykan" theft 169
+"Hidde van Dongen" robbery 256
+"Saar Elbertse" robbery 76
+"Catharina Dijkman" theft 317
+"Juliette Honing-de la Fleche" theft 110
+"Elin Dirksen" forgery 334
+"Brent van Dagsburg-Groenendaal" robbery 762
+"Victor Vertooren" theft 136
+"Puk van Arkel" pickpocketing 18
+"Luuk van Hemert" pickpocketing 8
+"Thom Moenen" robbery 870
+"Naud Steenbakkers" theft 81
+"Levi van de Eerenbeemt" pickpocketing 31
+"Juul Grondel-Jeggij" theft 112
+"Jens Hoedemakers" theft 256
+"Giovanni Kronenberg" theft 219
+"Lindsey van Maasgouw" theft 183
+"Nina Jerusalem" forgery 35
+"Tygo Segerszoen" "weapons sale" 287000
+"Bart den Buytelaar" "drug sale" 40140
+"Quinty van de Berg-van Velthoven" theft 362
+"Kayleigh Jans-Verkade" robbery 346
+"Amir Jasperdr.-van Buuren" theft 66
+"Floortje de Bock" "drug sale" 7020
+"Tirza Niermann" theft 276
+"Michelle Vaessen" pickpocketing 14
+"Mara Die Bont" "drug sale" 4500
+"Yusuf Vermeulen" pickpocketing 38
+"Joost Pieters" theft 344
+"Lenn Vertoor" pickpocketing 16
+"Daan Heerkens-Boddaugh" theft 133
+"Kyara Adryaens-van Limburg" robbery 346
+"Janna Thatcher" pickpocketing 41
+"Sofie Schilt" pickpocketing 47
+"Milou Krabbe-Strijker" robbery 958
+"Elizabeth Spaan-Arnold" theft 168
+"Sienna de Kok" theft 152
+"Feline Meyer" theft 276
+"Victoria de Leeuw" theft 33
+"Kay Thout" pickpocketing 50
+"Yasmin van de Water" "weapons sale" 116000
+"Sofie Brumleve" theft 388
+"Simon de Bruin" theft 312
+"Daniel van de Biesenbos-d' Heripon" pickpocketing 15
+"Carlijn Aertsz" pickpocketing 41
+"Jort van der Pluijm" pickpocketing 21
+"Tijn Pasman" pickpocketing 44
+"Lize Brugman" theft 278
+"Carlijn Horrocks" robbery 836
+"Aylin Coret" robbery 524
+"Linde van de Elzas" robbery 358
+"Liam Janssen-Frankhuizen" theft 48
+"Matthias Mosley" theft 343
+"Jesper Pratt" robbery 564
+"Dewi van de Noordmark" theft 194
+"Selena Hoppenbrouwer" "drug sale" 13950
+"Lucy Volcke-de Haan" pickpocketing 26
+"Selina Mahieu" theft 392
+"Kian Verhagen" theft 319
+"Liv Erhout" theft 208
+"Bilal Koeman" robbery 108
+"Fedde van Egisheim" pickpocketing 4
+"Myrthe Winters" theft 187
+"Sami Bartels" theft 88
+"Tirza van Dongen-de Bruijn" forgery 413
+"Kevin van den Brand" theft 236
+"Arthur van der Heiden" robbery 386
+"Tirza Zuidweg-Doesburg" robbery 544
+"Thom Flink" "weapons sale" 279000

@@ -1,0 +1,265 @@
+name crime_type profit
+"Elfriede Bruder-Gehringer" forgery 396
+"Univ.Prof. Kai-Uwe Austermühle B.A." theft 256
+"Gerlind Wende" theft 284
+"Hüseyin Kostolzin" pickpocketing 10
+"Jeannette Döring" forgery 530
+"Emil Meyer" theft 109
+"Liesbeth Reichmann" "drug sale" 40590
+"Ingeburg Mude" pickpocketing 26
+"Angelica Bonbach-Radisch" pickpocketing 34
+"Dr. Veronique Schmidtke B.Sc." theft 16
+"Isolde Seifert" theft 329
+"Hanife Butte B.A." theft 332
+"Ehrenfried Hölzenbecher B.Eng." theft 398
+"Alwine Dowerg" forgery 395
+"Frau Janina Reising MBA." theft 189
+"Peter-Michael Gotthard" theft 360
+"Hanne Hecker" theft 252
+"Univ.Prof. Robby Hentschel" robbery 932
+"Agnieszka Aumann" theft 280
+"Sandor Ritter" theft 208
+"Gregor Förster" theft 138
+"Ingeborg Jacobi Jäckel" robbery 334
+"Univ.Prof. Rosa Ziegert MBA." forgery 63
+"Dipl.-Ing. Dennis Hesse" theft 44
+"Oscar Hofmann" forgery 362
+"Istvan Rose" "drug sale" 12960
+"Erhard Lübs B.A." robbery 684
+"Engin Roskoth" robbery 700
+"Adelgunde Henschel B.Eng." forgery 410
+"Lilian Schulz B.Sc." robbery 636
+"Dipl.-Ing. Leokadia Metz" pickpocketing 48
+"Wolfhard Karz" forgery 477
+"Undine Otto" theft 89
+"Walli Krause" theft 264
+"Tania Jessel" theft 196
+"Herr Christoph Möchlichen B.Eng." robbery 960
+"Dragica Preiß-Sauer" pickpocketing 30
+"Heino Wilmsen" theft 40
+"José Henschel" theft 276
+"Hülya Heinrich" theft 13
+"Sylvester Ruppersberger" "drug sale" 11160
+"Gloria Lange" robbery 600
+"Darius Wernecke" forgery 546
+"Univ.Prof. Heidi Rogge B.Sc." theft 153
+"Bianca Zahn" theft 105
+"Corinna Ernst" theft 40
+"Herr Ralf-Dieter Meyer MBA." theft 226
+"Ulrike Walter" "drug sale" 2160
+"Knud Mude" theft 282
+"Wanda Speer" robbery 434
+"Hassan Wagner" theft 71
+"Dr. Viola Seip B.Eng." theft 80
+"Arzu Rudolph" robbery 706
+"Czeslaw Schomber" robbery 662
+"Dr. Gert Roskoth" pickpocketing 27
+"Friedo Mans-Weinhold" theft 244
+"Burckhard Tlustek-Rädel" pickpocketing 49
+"Gesche Paffrath" theft 64
+"Katrin Fischer" pickpocketing 18
+"Isabelle Bolnbach-Hahn" robbery 796
+"Britta Häring" theft 351
+"Tibor Trupp B.Sc." "drug sale" 12690
+"Frau Swetlana Wähner B.Eng." theft 340
+"Evamaria Weitzel" robbery 556
+"Herr Otfried Röhricht MBA." forgery 298
+"Renato Gieß-Bruder" theft 84
+"Karl-Ludwig Klotz-Lachmann" forgery 233
+"Semra Dörr" theft 154
+"Hermann Josef Wende-Nette" robbery 440
+"Ing. Anselm Kroker" theft 92
+"Martina Bender-Heidrich" forgery 273
+"Dipl.-Ing. Ingo Haase" forgery 347
+"Veit Ruppert-Johann" theft 116
+"Ivonne Hermann" robbery 478
+"Slobodan Neuschäfer" theft 72
+"Tobias Drubin" pickpocketing 6
+"Univ.Prof. Heinz Dieter Kobelt B.A." theft 387
+"Nikolaj Kallert" pickpocketing 47
+"Hermann Josef Kranz" theft 276
+"Anna-Luise Weinhold" pickpocketing 44
+"Cordula Müller" "weapons sale" 64000
+"Herr Andrei Jungfer MBA." forgery 160
+"Gudula Reichmann-Girschner" "weapons sale" 137000
+"Meinolf Grein Groth" forgery 138
+"Hilma Austermühle B.Sc." theft 337
+"Randolf Ehlert" theft 9
+"Hendrik Zirme B.Eng." theft 126
+"Juliane Losekann B.Eng." theft 144
+"Univ.Prof. Imelda Ziegert" forgery 482
+"Prof. Ulf Ladeck B.Eng." "drug sale" 36810
+"Sybilla Rosemann" theft 66
+"Gundula Ullmann" robbery 968
+"Ilhan Misicher" robbery 924
+"Leon Scholz" theft 348
+"Klaus-D. Rosenow" forgery 572
+"Ingbert Krause" pickpocketing 20
+"Dr. Janos Hering MBA." "drug sale" 30960
+"Hans-Dieter Henschel-Steckel" pickpocketing 48
+"Jiri Gude" pickpocketing 22
+"Eleni Stoll" theft 351
+"Antonie Kaul" "weapons sale" 324000
+"Alwin Dehmel" theft 63
+"Hubertine Klingelhöfer" robbery 720
+"Artur Schenk" pickpocketing 31
+"Sergio Seip B.Eng." forgery 568
+"Cindy Loos" pickpocketing 22
+"Heinz-Dieter Trubin" pickpocketing 7
+"Jorge Wulf" theft 173
+"Judith Nohlmans-Pechel" theft 80
+"Herr Vassilios Staude B.A." "drug sale" 40680
+"Hanspeter Kensy" robbery 44
+"Ludger Klemm" forgery 454
+"Zeljko Gute" robbery 32
+"Cengiz Tintzmann-Häring" theft 233
+"Justine Kitzmann MBA." forgery 170
+"Silke Ditschlerin" pickpocketing 30
+"Käthe Karz-Schulz" theft 212
+"Pius Klingelhöfer" forgery 233
+"Magdalena Langern" "weapons sale" 435000
+"Christl Gude" "weapons sale" 16000
+"Herr Hans-Erich Staude" theft 135
+"Thea Schmiedt" robbery 960
+"Maurice Söding" pickpocketing 9
+"Michail Gute-Lorch" theft 220
+"Dipl.-Ing. Franca Bloch" forgery 382
+"Burkard Pechel MBA." theft 311
+"Ing. Bastian Vollbrecht MBA." theft 356
+"Josef Wagenknecht" pickpocketing 36
+"Ing. Monica Stey" pickpocketing 50
+"Univ.Prof. Hilde Süßebier B.Sc." pickpocketing 44
+"Rabea Schomber-Seifert" theft 115
+"Britt Textor B.A." pickpocketing 45
+"Dr. Ester Rose MBA." "weapons sale" 194000
+"Natali Schomber" "drug sale" 30960
+"Anna-Marie Budig" robbery 364
+"Ing. Manuel Röhricht" pickpocketing 2
+"Dipl.-Ing. Veronique Scheel B.Eng." theft 123
+"Dipl.-Ing. Matthias Scheel" theft 123
+"Erdal Rosenow-Blümel" theft 400
+"Eckard Schüler" theft 142
+"Curt Bachmann" pickpocketing 48
+"Arzu Jockel" pickpocketing 11
+"Henning Hein" theft 45
+"Maxim Höfig" forgery 26
+"Dr. Hans-Walter Hermighausen" theft 79
+"Rosita Caspar" theft 284
+"Evangelia Geisel" theft 136
+"Antonie Hentschel" pickpocketing 8
+"Zbigniew Jüttner" theft 304
+"Dr. Kilian Jockel B.A." pickpocketing 5
+"Herr Ewald Neureuther" theft 395
+"Cindy Sorgatz" theft 244
+"Hansjoachim Scholz MBA." theft 310
+"Katarina Schwital B.Sc." pickpocketing 8
+"Dr. Kathleen Mielcarek" theft 335
+"Reinhart Kreusel" "weapons sale" 351000
+"Fernando Austermühle" robbery 882
+"Peggy Weiß" pickpocketing 21
+"Bruni Textor" pickpocketing 3
+"Andrei Pruschke" forgery 334
+"Dr. Mikhail Becker" theft 73
+"Alfons Dörr MBA." "weapons sale" 165000
+"Goran Junck" pickpocketing 14
+"Lidwina Becker-Junk" theft 258
+"Ing. Angelo Riehl B.Sc." robbery 374
+"Dr. Kordula Bruder B.Eng." theft 280
+"George Dobes" forgery 358
+"Sibel Stoll B.Eng." theft 322
+"Helmut Römer B.A." theft 192
+"Gordana Hesse B.Eng." pickpocketing 14
+"Dogan Schottin" robbery 152
+"Korinna Kruschwitz" "drug sale" 36090
+"Erdogan Schleich" robbery 594
+"Frau Ria Hölzenbecher B.Eng." pickpocketing 36
+"Univ.Prof. Augusta Putz" "weapons sale" 474000
+"Frau Alexa Dowerg B.Eng." robbery 658
+"Veit Naser" robbery 38
+"Ronald Trub-Liebelt" forgery 516
+"Dr. Anka Stadelmann B.Sc." robbery 522
+"Luisa Etzold" theft 85
+"Isa Martin" theft 180
+"Winfried Jungfer-Heydrich" theft 196
+"Silvana Cichorius" theft 67
+"Dipl.-Ing. Hannelore Binner" "drug sale" 33480
+"Ing. Helga Fliegner B.Sc." pickpocketing 6
+"Vittorio Vogt-Täsche" "drug sale" 12690
+"Silvana Mitschke-Käster" pickpocketing 10
+"Ann-Kathrin Scholtz" robbery 968
+"Frau Beatrix Bolnbach B.Eng." pickpocketing 7
+"Armin Bärer B.A." forgery 281
+"Prof. Lutz Hein B.Eng." robbery 252
+"Ildiko Werner" pickpocketing 4
+"Alice Sauer" forgery 76
+"Osman Drub" pickpocketing 34
+"Univ.Prof. Gina Bolnbach B.Eng." "drug sale" 20880
+"Willfried Jacob B.A." pickpocketing 47
+"Ing. Karla Lindner MBA." robbery 992
+"Richard Eberth B.A." theft 131
+"Verena Caspar" robbery 586
+"Peggy Lachmann" theft 80
+"Annette Salz-Keudel" robbery 460
+"Berend Zirme-Linke" forgery 333
+"Ali Dowerg" theft 211
+"Hans-Rudolf Fritsch" "weapons sale" 13000
+"Miodrag Trüb" robbery 574
+"Ing. Editha Dörschner" "drug sale" 6030
+"Erdal Fischer" forgery 280
+"Frithjof Stey MBA." robbery 36
+"Brit Jockel" theft 315
+"Margarethe Linke" robbery 184
+"Bertold Hellwig-Dowerg" theft 328
+"Jörg Mentzel B.Sc." pickpocketing 10
+"Prof. Kornelia Bolander B.A." theft 279
+"Cemil Wähner MBA." pickpocketing 15
+"Heide-Marie Atzler B.Eng." "weapons sale" 192000
+"Franz-Josef Köster B.A." pickpocketing 46
+"Gerwin Weihmann-Seifert" theft 307
+"Thilo Jäntsch" forgery 525
+"Dr. Raissa Benthin B.A." theft 212
+"Jolanthe Fechner B.Sc." theft 348
+"Angelina Heß" theft 228
+"Siegried Schmidt-Gumprich" "drug sale" 28620
+"John Junitz" robbery 372
+"Karla Meyer B.Eng." "drug sale" 32310
+"Univ.Prof. Martha Stey MBA." theft 290
+"Senol Krause B.Eng." pickpocketing 42
+"Herr Guenter Döring" theft 220
+"Dipl.-Ing. Guido Hendriks" forgery 53
+"Edmund Ullmann" theft 290
+"Ing. Linus Bien B.Sc." "drug sale" 13590
+"Dipl.-Ing. Simona Schmidtke MBA." theft 348
+"Dipl.-Ing. Mareike Bruder B.A." robbery 432
+"Monique Naser" forgery 245
+"Ria Dussen van" theft 62
+"Fadime Kroker" theft 240
+"Henrik Seifert MBA." forgery 252
+"Alessandro Beckmann" forgery 236
+"Katarzyna Trapp B.Sc." robbery 30
+"Dipl.-Ing. Reinhardt Wirth" pickpocketing 16
+"Herr Hans-Helmut Junitz B.Eng." theft 274
+"Rolf-Peter Käster" theft 264
+"Hans-Herbert Hövel-Wagner" forgery 582
+"Theres Binner" "drug sale" 1350
+"Tomas Mies" pickpocketing 27
+"Jolanta Langern" theft 364
+"Max Zorbach" robbery 512
+"Dipl.-Ing. Lissy Mende" "drug sale" 10530
+"Elli Cichorius-Cichorius" pickpocketing 9
+"Cord Nohlmans" robbery 180
+"Rosel Stadelmann" pickpocketing 12
+"Hartmut Lindner-Köhler" theft 81
+"Karl-Josef Hecker" robbery 490
+"Klaus Peter Gutknecht-Albers" theft 389
+"Luciano Putz" theft 149
+"Dragica Peukert" theft 53
+"Univ.Prof. Dominik Albers" theft 363
+"Jacqueline Ackermann" theft 95
+"Jose Schinke" theft 46
+"Mareile Krein MBA." "drug sale" 9540
+"Dr. Bernward Lindner B.A." robbery 82
+"Helma Schönland B.Sc." theft 136
+"Dipl.-Ing. Wendelin Steinberg B.A." robbery 656
+"Wibke Margraf" forgery 269
+"Ing. Sofia Schönland B.Eng." pickpocketing 2

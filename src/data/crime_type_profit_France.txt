@@ -1,0 +1,350 @@
+name crime_type profit
+"Henriette Thomas du Peron" robbery 558
+"Marianne Francois" "drug sale" 8100
+"Chantal Laurent" theft 52
+"Dorothée Coulon" theft 37
+"Astrid Meunier" pickpocketing 41
+"Aimé Gillet" theft 117
+"Alexandria Briand de la Lelievre" theft 231
+"Louis Lacroix" theft 344
+"Margaret Mallet" pickpocketing 33
+"Émile Chauveau-Monnier" pickpocketing 34
+"Adrienne Chauvin" theft 116
+"Benoît Lemaitre" theft 164
+"Alfred Jacques-Rodriguez" "drug sale" 1980
+"Astrid Foucher" "drug sale" 10890
+"Victoire Masson" pickpocketing 50
+"Alexandre de la Lombard" pickpocketing 3
+"Bernard Vallet" forgery 551
+"Sébastien David" theft 164
+"Georges Da Costa-Diaz" robbery 34
+"René Tessier du Lagarde" "weapons sale" 423000
+"René-Roger Grondin" pickpocketing 45
+"Christophe Leblanc" theft 388
+"Jules Jourdan" pickpocketing 3
+"Roger Blanchet Le Dupuy" "weapons sale" 116000
+"Olivie Riviere" theft 191
+"Christine-Audrey Descamps" forgery 185
+"Océane Leveque" "weapons sale" 115000
+"Grégoire Morel" pickpocketing 3
+"Alexandre Delaunay" forgery 297
+"Tristan Morvan" pickpocketing 40
+"Victor de Bourgeois" robbery 352
+"William Barbier" robbery 460
+"Patrick Jacquot-Michaud" robbery 384
+"Éléonore du Antoine" theft 389
+"Bernadette Pineau" pickpocketing 21
+"Roger Le Perrier" theft 68
+"Lorraine Bertin" theft 112
+"Marcel Ramos" theft 70
+"Alex de la Martin" pickpocketing 42
+"Margot Allain" robbery 948
+"Denis Maillot" theft 143
+"Catherine Weiss" "drug sale" 23580
+"Théophile Hamel-Humbert" pickpocketing 28
+"Gabrielle-Marine Peltier" forgery 324
+"Anaïs de la Lebrun" theft 257
+"Claire Blanc-Cousin" "weapons sale" 117000
+"Paul Jacques" robbery 126
+"Thibaut Barre" forgery 570
+"Aurélie Guillot" theft 312
+"Grégoire Daniel" robbery 930
+"Jeanne Bouvier" pickpocketing 48
+"Étienne Herve Le Renard" robbery 462
+"Thérèse Hamon" pickpocketing 44
+"daisy Toussaint" "weapons sale" 266000
+"daisy Faure" forgery 436
+"Richard Roux-Masson" robbery 384
+"Madeleine-Camille Pruvost" forgery 375
+"Colette Regnier de la Rousset" theft 255
+"Daniel Bousquet" forgery 45
+"Jules Lelievre" theft 258
+"Gabriel de la Lacroix" forgery 263
+"Madeleine Gilbert" robbery 94
+"Christelle de Simon" "weapons sale" 226000
+"Zacharie Samson" "weapons sale" 208000
+"Claude Antoine" theft 390
+"Joseph-André Allain" theft 397
+"Olivier du Picard" theft 386
+"Maggie Couturier" robbery 52
+"Denise Besnard" robbery 74
+"Jean Guyon" robbery 754
+"Arnaude Legros Le Noel" robbery 464
+"Charlotte-Aurélie Delaunay" pickpocketing 31
+"Nicole Martineau" "drug sale" 23400
+"Patrick Le Humbert" theft 291
+"Henriette Charpentier" "weapons sale" 282000
+"Nath-Marie Jacquot" "weapons sale" 59000
+"Alex Colin" robbery 868
+"Dorothée du Tanguy" pickpocketing 14
+"Jean Fournier-Marty" pickpocketing 12
+"Eugène Pages" theft 258
+"Nicolas Gregoire" "drug sale" 40590
+"Océane Parent" theft 380
+"Gilbert Dufour-Didier" theft 380
+"Daniel Becker" pickpocketing 2
+"Michelle Michaud" pickpocketing 33
+"Thomas Gregoire" pickpocketing 30
+"Thomas Poulain" pickpocketing 42
+"Élise Ruiz" forgery 189
+"Célina Robert" theft 252
+"Yves de Bigot" theft 220
+"Laure Barthelemy-Humbert" "drug sale" 41040
+"Gérard du Berthelot" robbery 962
+"Inès Mendes" pickpocketing 17
+"Virginie Lamy-Julien" theft 156
+"Étienne Potier" theft 266
+"Victor Albert" theft 11
+"Laetitia du Albert" theft 20
+"Julie Le Techer" robbery 416
+"Auguste Evrard-Chartier" pickpocketing 49
+"Anouk du Weber" robbery 244
+"Antoinette Brunel" pickpocketing 30
+"Olivier Charles" pickpocketing 50
+"Maryse Baron Le Caron" pickpocketing 41
+"Timothée Pages de la Barre" forgery 83
+"Laurence Leleu" forgery 299
+"Daniel Ollivier" theft 314
+"Gilles Le Meyer" robbery 120
+"Xavier Hoarau" forgery 242
+"Alfred Laporte" theft 213
+"Gabriel-Yves Pages" robbery 152
+"Susan Dumont" theft 189
+"Adèle Turpin du Lacombe" "drug sale" 41490
+"Thérèse Ollivier" pickpocketing 2
+"Timothée Fernandes" theft 385
+"Honoré Michaud de la Lacroix" robbery 416
+"Émilie Regnier-Collin" theft 384
+"Eugène Thierry" forgery 567
+"Audrey-Célina Bouvet" pickpocketing 41
+"Édith-Laurence Marques" "drug sale" 10170
+"Laurent-René Guilbert" pickpocketing 19
+"Alex Aubert" theft 68
+"Mathilde Gillet" pickpocketing 10
+"Victoire Gimenez" "drug sale" 31590
+"Denise du Lebon" robbery 444
+"Marine de la Marion" theft 44
+"Josette Marie" theft 128
+"Charles Gautier-Huet" pickpocketing 18
+"Robert Lelievre de la Auger" "weapons sale" 360000
+"Sabine-Jacqueline Bazin" forgery 506
+"Richard Arnaud" theft 185
+"Alphonse Imbert" theft 307
+"Pauline Le Marie" "drug sale" 40590
+"Denis Navarro-Noel" theft 206
+"Paul Guillet" "drug sale" 28800
+"Juliette Dupuy" robbery 62
+"Denis Lesage" "weapons sale" 328000
+"Gérard Barre" "weapons sale" 367000
+"Adèle Boulanger" forgery 156
+"Tristan-Maurice Lebon" robbery 292
+"Nathalie Bourdon" robbery 822
+"Constance Pinto" theft 115
+"Olivier Pereira" theft 85
+"Lucie Allain de la Goncalves" theft 373
+"Auguste-Guy Laroche" theft 220
+"Suzanne Thibault" theft 268
+"Monique Colin" theft 16
+"Gilles Perrin" pickpocketing 23
+"Agathe Chauvin" pickpocketing 45
+"Michelle de Da Silva" theft 68
+"Agnès-Nathalie Blot" theft 230
+"Marcel Lebreton" theft 101
+"Charlotte Pelletier-Leclerc" theft 220
+"Pierre-Joseph Robert" pickpocketing 22
+"Maurice Vallet" pickpocketing 32
+"Suzanne Levy" "weapons sale" 216000
+"Marguerite Reynaud" pickpocketing 21
+"Geneviève-Hélène Aubry" pickpocketing 49
+"Arthur Lemonnier" theft 357
+"Michelle Le Charles" robbery 542
+"Marcelle Buisson" pickpocketing 23
+"Henri-Christophe Perez" theft 236
+"Denise-Madeleine Samson" theft 26
+"Joseph Ruiz" theft 22
+"Joseph Le Rousset" forgery 551
+"Denise Duhamel" pickpocketing 45
+"Christiane Bazin" "drug sale" 14490
+"Thomas Benard" theft 48
+"Adèle Leroy" pickpocketing 42
+"Andrée Paul" forgery 201
+"Bernadette Pons" pickpocketing 5
+"Sébastien Pruvost" pickpocketing 26
+"Constance du Laurent" "weapons sale" 453000
+"Diane Lamy" pickpocketing 17
+"Amélie Marion" robbery 878
+"Nicole-Adrienne Francois" robbery 800
+"Louise de la Rossi" theft 266
+"Margaux de Hamon" robbery 322
+"Georges Bertin" theft 58
+"Olivier Laurent-Duval" theft 203
+"Pierre Sanchez-Guillaume" theft 399
+"Marcel Navarro" theft 296
+"Antoine Chauvet du Laine" "drug sale" 17010
+"Gabrielle de la Briand" theft 341
+"Lucie Lenoir" "drug sale" 35460
+"Henri Perrier" pickpocketing 7
+"Jérôme Guichard" pickpocketing 18
+"Constance Fabre" theft 184
+"Benjamin Diallo" "drug sale" 15030
+"Dominique Martins" theft 33
+"Eugène de Costa" theft 232
+"Inès Martins de la Morel" pickpocketing 44
+"Richard Le Robert" theft 355
+"Marcel Caron" robbery 552
+"Zoé Le Evrard" theft 37
+"Corinne du Lacombe" theft 92
+"Tristan-Honoré Lebon" "drug sale" 22500
+"Marguerite Bertin de Traore" theft 300
+"Guillaume de la Le Roux" theft 96
+"Tristan Laine-Bourgeois" theft 338
+"Margaux-Hortense Guyot" theft 120
+"Valentine Meunier" "weapons sale" 435000
+"Honoré Wagner-Gilles" forgery 537
+"Antoinette Cousin" theft 362
+"Frédérique-Margaux Philippe" pickpocketing 16
+"Henri de la Paul" forgery 507
+"Olivie Thibault" robbery 746
+"Bernadette Marty" pickpocketing 38
+"Hortense Rodriguez" theft 36
+"Jean Dijoux du Lambert" robbery 302
+"David de Peron" forgery 402
+"Brigitte Ledoux" theft 39
+"Élise Dumas-Sauvage" pickpocketing 26
+"Isaac-Victor Lebreton" theft 385
+"Victoire Sanchez" theft 275
+"Zoé Leconte de Noel" "drug sale" 18540
+"Isaac Labbe" "drug sale" 37260
+"Adrienne Raynaud-Renard" forgery 429
+"Emmanuel du Remy" theft 141
+"Clémence Guyot de Moulin" "drug sale" 23940
+"François Delorme" forgery 233
+"Camille Bouchet" theft 372
+"Christelle Letellier" theft 40
+"Brigitte Ollivier" robbery 390
+"Georges Marechal" robbery 46
+"Inès Pereira" forgery 201
+"Michel Mahe" theft 11
+"Anastasie Fleury" pickpocketing 20
+"Christine-Zoé Cousin" "drug sale" 21960
+"Alain-Denis Bodin" pickpocketing 8
+"Noémi Girard" theft 89
+"Gilbert Vaillant" theft 284
+"Maurice Martin du Guillet" theft 228
+"Simone Lombard" pickpocketing 49
+"Étienne Gay" robbery 70
+"Christelle-Colette Chauvet" theft 48
+"Pierre Dumas" theft 303
+"Dorothée Guichard" "drug sale" 39330
+"Agnès Germain" theft 94
+"Monique Gaillard-Duhamel" forgery 558
+"Adèle Boutin" theft 385
+"Margot Poulain" robbery 178
+"Philippe Valette" robbery 242
+"Alix Georges" robbery 612
+"Victor-Honoré Leleu" forgery 186
+"Aimée-Margot Martins" pickpocketing 26
+"Marc Lacombe" pickpocketing 14
+"Agathe Le Baudry" theft 393
+"Timothée du Andre" pickpocketing 49
+"Honoré Laurent" pickpocketing 4
+"Grégoire-Roland Pruvost" theft 208
+"daisy Clerc" theft 400
+"Alphonse de la Julien" robbery 160
+"Henriette Boulay" robbery 96
+"Julie Jacquet" pickpocketing 23
+"Véronique Pons" theft 186
+"Vincent Le Weber" theft 84
+"Christine Guyot-Poulain" theft 44
+"Astrid Bouvet du Benoit" theft 204
+"Susan Blot-Hamon" robbery 904
+"Christine Muller" theft 367
+"Pénélope Besson" theft 312
+"Jules de De Oliveira" theft 166
+"David Sanchez" robbery 718
+"Nathalie Le Martineau" "weapons sale" 92000
+"Martine de Gilles" theft 29
+"Stéphanie Godard Le Maillard" "drug sale" 39600
+"Joseph Gregoire" theft 216
+"Isaac David" theft 204
+"Auguste Bonnin" pickpocketing 27
+"Joseph Daniel" "weapons sale" 387000
+"Patricia Denis" theft 162
+"André Thierry de Brunet" robbery 222
+"Hugues Blanc Le Schneider" "weapons sale" 63000
+"Claudine-Alex Hamel" robbery 304
+"Jules Guillot" theft 343
+"Audrey Renaud-Tanguy" pickpocketing 40
+"Danielle Roche" robbery 428
+"Jules-Tristan Langlois" forgery 262
+"Thomas Couturier" "weapons sale" 267000
+"Alexandria Sauvage" forgery 179
+"Émile Boutin-Coste" forgery 88
+"Capucine de Chauveau" theft 288
+"Adèle Huet" theft 175
+"Antoinette Hebert" pickpocketing 46
+"Franck Marty" theft 18
+"Raymond Launay" pickpocketing 24
+"Benjamin-Franck Nicolas" theft 108
+"Denise de Goncalves" "drug sale" 23220
+"Gérard Lombard" robbery 912
+"Claudine Salmon" theft 340
+"Alice Ruiz" theft 357
+"Denis Begue-Guyot" robbery 54
+"Benjamin Gautier" "weapons sale" 177000
+"Sabine Hamon de la Le Gall" theft 356
+"André Guillot-Georges" theft 24
+"Alfred Morvan" robbery 988
+"Paul Arnaud" robbery 362
+"Olivier Lopez" theft 318
+"Nathalie Pineau" pickpocketing 4
+"Benoît Leveque-Garnier" theft 94
+"Henriette Guichard" pickpocketing 3
+"Joseph-Benoît Lejeune" robbery 878
+"Thibaut Roussel" theft 255
+"Adrien Laroche-Da Silva" theft 61
+"Roland Fouquet" robbery 274
+"Cécile Maury" forgery 567
+"Gabriel Le Schneider" "weapons sale" 493000
+"Étienne Camus" pickpocketing 46
+"Émilie Henry-Laurent" pickpocketing 20
+"Laure de Lemaire" "drug sale" 42480
+"Matthieu-Joseph Fischer" forgery 29
+"Pénélope Jourdan" pickpocketing 48
+"Hélène Huet" "drug sale" 8100
+"Marc Le Moreno" robbery 184
+"Léon Guyot" pickpocketing 26
+"Victor-Zacharie Lejeune" robbery 120
+"Hortense-Margaux Godard" theft 298
+"Augustin Lejeune" forgery 314
+"Zacharie Lelievre" robbery 500
+"Christiane Fernandez" robbery 160
+"Valentine de la Garnier" forgery 453
+"Élise Gomez-Verdier" forgery 347
+"Augustin-Eugène Charrier" pickpocketing 46
+"Joséphine Allain" theft 375
+"Valérie-Sabine Dupont" theft 199
+"Philippine Traore" theft 320
+"Stéphane Duhamel" theft 92
+"Renée Schmitt" pickpocketing 3
+"Martine Chauvet-Perrier" forgery 240
+"Madeleine Gauthier-Gaillard" pickpocketing 7
+"William de Briand" theft 262
+"Nicole Herve" pickpocketing 39
+"Stéphane Menard-Blanchard" robbery 416
+"Aimé-Isaac Antoine" robbery 394
+"Dorothée Bernier" robbery 162
+"Laurence Carre" theft 368
+"Brigitte Marion" robbery 690
+"Marthe-Aurélie Morvan" robbery 320
+"Stéphanie Foucher du Royer" pickpocketing 18
+"Laure Faure" robbery 450
+"Joséphine-Marguerite Clerc" pickpocketing 30
+"Richard-Alphonse Lebrun" theft 258
+"Zoé Guibert de la Levy" "weapons sale" 364000
+"daisy-Marcelle Boucher" pickpocketing 14
+"Andrée Meunier" theft 131
+"Claudine du Peltier" theft 368
+"Odette Thibault" theft 105
+"Alice Benoit-Traore" pickpocketing 2
+"Odette Renard du Michaud" "weapons sale" 498000
