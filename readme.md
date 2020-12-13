@@ -1,6 +1,6 @@
 # Description:  
-"Holmes_moriarty_sql" projects aimed at helping to learn the core data science skills:  
-pandas, pyspark, and SQL/Hive in a form of a dynamically generated quest/puzzle.  
+"Holmes_moriarty_sql" project aimed to help learn the basics of the core data science skills:  
+pandas, pyspark, SQL/Hive as well as Python in a form of a dynamically generated quest/puzzle.  
 
 # Usage:  
 Setup the environment (see below).
@@ -43,4 +43,6 @@ source env/bin/activate
 pip install -- requirements.txt  
 cd src  
 
-
+#  Licence
+Users and developers are encouraged to modify the code and add new puzzles.
+Referencing the original creator (Vasily Kerov) is appreciated.
