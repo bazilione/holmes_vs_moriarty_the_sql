@@ -1,6 +1,9 @@
 __pycache__/
 archive/
 env/
+sql_data/*
+from_downloads/
+src/dergy.log
 .idea
 src/dergy.log
 src/metastore_db/
