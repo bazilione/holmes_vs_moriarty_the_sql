@@ -12,7 +12,7 @@ Solve the puzzle using the prepared notebook templates:
 (Solving in this order is recommended.)  
   
   
-The user can generate the data (saved to the 'data' folder as .csv and .txt files).
+The user can generate the data (saved to the 'data' folder as .csv and .txt files).  
 Changing the seed (in 'helpers.py') will change the data (and the correct answer).
   
 Alternatively, the user can use the precreated data (generated with '1234' seed).  
@@ -39,7 +39,7 @@ git clone https://gitlab.com/vkerov/holmes_moriarty_sql.git
 cd holmes_moriarty_sql  
   
 python3 -m venv env  
-source env/bin/activate 
+source env/bin/activate  
 pip install -- requirements.txt  
 cd src  
 
