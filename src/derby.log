@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Dec 08 06:39:15 EST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-4226-016d-0000057c7368 
-on database directory /Users/vk/Documents/Python/holmes_moriarty_sql/src/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4a2675c4 
+Sat Dec 12 19:37:30 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-5987-f420-00001280d2a0 
+on database directory /Users/vk/Documents/Python/holmes_moriarty_sql/src/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@628891ba 
 Loaded from file:/Users/vk/Documents/Python/holmes_moriarty_sql/env/lib/python3.6/site-packages/pyspark/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_181-b13

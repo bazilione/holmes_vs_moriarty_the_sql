@@ -1,5 +1,10 @@
-env
+__pycache__/
+archive/
+env/
 .idea
+src/dergy.log
+src/metastore_db/
 src/.idea
 src/.ipynb*
+src/hive_data/
 
