@@ -36,13 +36,12 @@ Installation on a Linux-like terminal (includes MacOS).
   
 In a folder with your projects:  
 git clone https://gitlab.com/vkerov/holmes_moriarty_sql.git  
-cd holmes_moriarty_sql  
-  
+cd holmes_moriarty_sql    
 python3 -m venv env  
 source env/bin/activate  
 pip install -- requirements.txt  
 cd src 
- 
+# to launch jupyter notebook
 jupyter notebook  
 
 
