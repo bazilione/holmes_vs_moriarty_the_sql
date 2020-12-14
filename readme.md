@@ -41,7 +41,10 @@ cd holmes_moriarty_sql
 python3 -m venv env  
 source env/bin/activate  
 pip install -- requirements.txt  
-cd src  
+cd src 
+ 
+jupyter notebook  
+
 
 #  Licence
 Users and developers are encouraged to modify the code and add new puzzles.
