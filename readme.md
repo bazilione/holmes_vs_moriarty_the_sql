@@ -1,7 +1,11 @@
 # Description:  
-"Holmes_moriarty_sql" project aimed to help learn the basics of the core data science skills:  
-pandas, pyspark, SQL/Hive as well as Python in a form of a dynamically generated quest/puzzle.  
+"holmes_moriarty_sql" project aimed to help learn the basics of the core data science skills:  
+pandas, pyspark, SQL/Hive as well as Python in a form of a dynamically generated quest/puzzle  
+inspired by the adventures of Conan Doyle's Mr. Holmes and Dr. Watson who is after the crime world master mind  
+Professor Moriarty.  
 
+The project can also be used to create test data sets to evaluate one's data science skills.  
+  
 # Usage:  
 Setup the environment (see below).
   
