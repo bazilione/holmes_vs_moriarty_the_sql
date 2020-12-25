@@ -10,9 +10,9 @@ The project can also be used to create test data sets to evaluate one's data sci
 Setup the environment (see below).
   
 Solve the puzzle using the prepared notebook templates:  
-'my_pandas_solution.ipynb'  
-'my_pyspark_solution.ipynb'  
-'my_pyspark_sql_solution.ipynb'.  
+'my_solution_pandas.ipynb'  
+'my_solution_pyspark.ipynb'  
+'my_solution_pyspark_sql.ipynb'.  
 (Solving in this order is recommended.)  
   
   
