@@ -1,4 +1,5 @@
 __pycache__/
+.ipynb_checkpoints
 archive/
 env/
 sql_data/*
@@ -10,4 +11,3 @@ src/metastore_db/
 src/.idea
 src/.ipynb*
 src/hive_data/
-
