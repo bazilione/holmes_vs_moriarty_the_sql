@@ -49,6 +49,6 @@ cd src
 jupyter notebook  
 
 
-#  Licence
+#  License
 Users and developers are encouraged to modify the code and add new puzzles.
 Referencing the original creator (Vasily Kerov) is appreciated.
