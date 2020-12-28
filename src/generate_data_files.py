@@ -7,8 +7,6 @@ Purpose: to generate a table with fake data for Holmes-Moriarty pandas/pyspark/s
 """
 import sys
 
-from datetime import datetime
-import numpy as np
 import pandas as pd
 
 from faker import Faker
@@ -132,19 +130,17 @@ def add_date_not_sunday(value):
 
     while weekday(fake_date) == 'Sunday':
         fake_date = faker_en.date_between(start_date='-360d', end_date='today')
+
     return fake_date
 
 
 def add_moriarty_profile(df, crime_type_, country_):
     """Makes sure the solution's date is not 'Sunday' and alias is None."""
 
-    faker_en = Faker('en_GB')
-
     df_moriarty = df.loc[(df.country == country_) & (df.crime_type == crime_type_)] \
         .sort_values('profit', ascending=False).reset_index()
-    print("df_moriarty shape: {}.".format(df_moriarty.shape[0]))
     hidden_moriarty_name = df_moriarty.name[0]
-    print("Name to replace: {}".format(hidden_moriarty_name))
+    # print("Moriarty name: {}".format(hidden_moriarty_name))
     df_moriarty = df.loc[df.name == hidden_moriarty_name]
     df_moriarty = df_moriarty.copy()
 

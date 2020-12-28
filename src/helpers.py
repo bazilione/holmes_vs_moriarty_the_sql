@@ -80,7 +80,7 @@ def identify_moriarty(df, seed, save=True):
     df = df.sort_values('profit', ascending=False).reset_index()
 
     moriarty_name = df.name[0]
-    print("Identified moriarty_name: {}".format(moriarty_name))
+    # print("Identified moriarty_name: {}".format(moriarty_name))
 
     if save:
         with open('./solution/moriarty_name.txt', 'w') as f:
@@ -88,6 +88,8 @@ def identify_moriarty(df, seed, save=True):
             f.write("seed: {}.\n".format(str(seed)))
             now_string = datetime.now().strftime("%m/%d/%Y %H:%M:%S")
             f.write("write datetime: {}.\n".format(now_string))
+
+    return moriarty_name
 
 
 def weekday(date):
