@@ -17,6 +17,7 @@ from helpers import identify_crime_type_country, identify_moriarty
 
 from helpers import seed  # change the seed in helpers to change the generated data
 
+random.seed(seed)
 Faker.seed(seed)
 faker = Faker()
 
