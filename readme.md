@@ -35,9 +35,10 @@ for help, the user can run and follow the notebooks with the solution:
 The project requires Python 3.6 or higher.  
   
 Installation on a Linux-like terminal (includes MacOS).  
+
   
 In a folder with your projects:  
-git clone https://gitlab.com/vkerov/holmes_moriarty_sql.git  
+git clone https://github.com/bazilione/holmes_vs_moriarty_the_sql.git
 cd holmes_moriarty_sql    
 python3 -m venv env  
 source env/bin/activate  
