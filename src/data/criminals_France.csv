@@ -9,32 +9,32 @@ id,nom,pseudonyme,latitude,longitude
 7,Louis Lacroix,,48.9082,2.4907
 8,Margaret Mallet,,48.8978,2.279
 9,Émile Chauveau-Monnier,,48.8852,2.21
-10,Adrienne Chauvin,Montana,48.6484,2.4664
+10,Adrienne Chauvin,Beauty,48.6484,2.4664
 11,Benoît Lemaitre,,48.7732,2.5346
 12,Alfred Jacques-Rodriguez,,48.996,2.2047
 13,Astrid Foucher,,48.7092,2.4032
 14,Victoire Masson,,48.8994,2.5058
-15,Alexandre de la Lombard,Clown,48.9398,2.4739
+15,Alexandre de la Lombard,Reaper,48.9398,2.4739
 16,Bernard Vallet,,48.9204,2.5905
 17,Sébastien David,,48.6536,2.3927
 18,Georges Da Costa-Diaz,,49.054,2.3639
 19,René Tessier du Lagarde,,48.6504,2.3543
-20,René-Roger Grondin,Riko,48.9074,2.5567
-21,Christophe Leblanc,Satan,48.8231,2.1751
+20,René-Roger Grondin,Demon,48.9074,2.5567
+21,Christophe Leblanc,Maton,48.8231,2.1751
 22,Jules Jourdan,,48.7567,2.1532
 23,Roger Blanchet Le Dupuy,,48.6092,2.4218
 24,Olivie Riviere,,48.7751,2.2375
 25,Christine-Audrey Descamps,,49.0114,2.4493
 26,Océane Leveque,,49.0867,2.5795
-27,Grégoire Morel,Negro,48.6211,2.375
-28,Alexandre Delaunay,La,48.7517,2.3841
+27,Grégoire Morel,Minx,48.6211,2.375
+28,Alexandre Delaunay,Rascal,48.7517,2.3841
 29,Tristan Morvan,,49.0006,2.4809
-30,Victor de Bourgeois,Giggles,48.757,2.1298
-31,William Barbier,Brandy,48.6563,2.5722
-32,Patrick Jacquot-Michaud,Jaguar,48.6679,2.5739
+30,Victor de Bourgeois,Flaco,48.757,2.1298
+31,William Barbier,Bullet,48.6563,2.5722
+32,Patrick Jacquot-Michaud,Popcorn,48.6679,2.5739
 33,Éléonore du Antoine,,48.7697,2.5141
 34,Bernadette Pineau,,48.7774,2.3776
-35,Roger Le Perrier,Loco,48.7237,2.2544
+35,Roger Le Perrier,Brandy,48.7237,2.2544
 36,Lorraine Bertin,,48.8256,2.3477
 37,Marcel Ramos,,48.6742,2.1117
 38,Alex de la Martin,,48.6992,2.4064
@@ -49,14 +49,14 @@ id,nom,pseudonyme,latitude,longitude
 47,Thibaut Barre,,48.9813,2.3956
 48,Aurélie Guillot,,48.7306,2.4546
 49,Grégoire Daniel,,48.8789,2.2693
-50,Jeanne Bouvier,Foxy,48.9015,2.5495
+50,Jeanne Bouvier,Mousey,48.9015,2.5495
 51,Étienne Herve Le Renard,,48.9392,2.2494
 52,Thérèse Hamon,,48.7019,2.5579
 53,daisy Toussaint,,48.6201,2.484
-54,daisy Faure,Maton,49.0226,2.4239
+54,daisy Faure,Wicked,49.0226,2.4239
 55,Richard Roux-Masson,,48.6899,2.4395
 56,Madeleine-Camille Pruvost,,48.751,2.38
-57,Colette Regnier de la Rousset,Little,48.9915,2.278
+57,Colette Regnier de la Rousset,Pussy,48.9915,2.278
 58,Daniel Bousquet,,48.8223,2.1723
 59,Jules Lelievre,,48.9092,2.5303
 60,Gabriel de la Lacroix,,48.7567,2.3603
@@ -65,12 +65,12 @@ id,nom,pseudonyme,latitude,longitude
 63,Zacharie Samson,,48.9722,2.4652
 64,Claude Antoine,,48.7386,2.3323
 65,Joseph-André Allain,,48.9204,2.2513
-66,Olivier du Picard,Angel,48.8248,2.214
+66,Olivier du Picard,Ryder,48.8248,2.214
 67,Maggie Couturier,,49.0227,2.282
 68,Denise Besnard,,48.6915,2.485
 69,Jean Guyon,,48.9027,2.5028
 70,Arnaude Legros Le Noel,,48.6605,2.3627
-71,Charlotte-Aurélie Delaunay,Electra,49.0034,2.5981
+71,Charlotte-Aurélie Delaunay,Goddess,49.0034,2.5981
 72,Nicole Martineau,,48.623,2.3204
 73,Patrick Le Humbert,,48.8717,2.5966
 74,Henriette Charpentier,,48.9136,2.4578
@@ -79,7 +79,7 @@ id,nom,pseudonyme,latitude,longitude
 77,Dorothée du Tanguy,,48.8852,2.3372
 78,Jean Fournier-Marty,,48.9698,2.2713
 79,Eugène Pages,,49.0701,2.2313
-80,Nicolas Gregoire,Mr,48.7827,2.1894
+80,Nicolas Gregoire,Miklo,48.7827,2.1894
 81,Océane Parent,,48.7541,2.444
 82,Gilbert Dufour-Didier,,48.7035,2.2978
 83,Daniel Becker,,48.7153,2.3893
@@ -107,7 +107,7 @@ id,nom,pseudonyme,latitude,longitude
 105,Daniel Ollivier,,49.0476,2.1975
 106,Gilles Le Meyer,,48.9204,2.2704
 107,Xavier Hoarau,,48.883,2.5547
-108,Alfred Laporte,Hawk,48.6698,2.1238
+108,Alfred Laporte,Sharpies,48.6698,2.1238
 109,Gabriel-Yves Pages,,48.9058,2.2228
 110,Susan Dumont,,48.7585,2.5037
 111,Adèle Turpin du Lacombe,,48.6296,2.2342
@@ -121,12 +121,12 @@ id,nom,pseudonyme,latitude,longitude
 119,Laurent-René Guilbert,,49.051,2.5519
 120,Alex Aubert,,48.8751,2.1606
 121,Mathilde Gillet,,49.0742,2.4063
-122,Victoire Gimenez,Hammer,49.0366,2.4479
+122,Victoire Gimenez,Repogirl,49.0366,2.4479
 123,Denise du Lebon,,49.0578,2.4556
-124,Marine de la Marion,Oso,49.103,2.4251
-125,Josette Marie,Gizmo,48.9906,2.5047
+124,Marine de la Marion,Spite,49.103,2.4251
+125,Josette Marie,Sinister,48.9906,2.5047
 126,Charles Gautier-Huet,,48.8066,2.2456
-127,Robert Lelievre de la Auger,Lips,48.9593,2.3832
+127,Robert Lelievre de la Auger,Shy,48.9593,2.3832
 128,Sabine-Jacqueline Bazin,,48.8897,2.1307
 129,Richard Arnaud,,48.911,2.2743
 130,Alphonse Imbert,,48.9758,2.5246
@@ -138,8 +138,8 @@ id,nom,pseudonyme,latitude,longitude
 136,Gérard Barre,,48.6269,2.2053
 137,Adèle Boulanger,,49.0531,2.2907
 138,Tristan-Maurice Lebon,,48.6874,2.3895
-139,Nathalie Bourdon,Ironclad,48.9066,2.5265
-140,Constance Pinto,One,48.8312,2.4629
+139,Nathalie Bourdon,Bitch,48.9066,2.5265
+140,Constance Pinto,Raven,48.8312,2.4629
 141,Olivier Pereira,,48.8328,2.4919
 142,Lucie Allain de la Goncalves,,48.9137,2.3717
 143,Auguste-Guy Laroche,,48.6247,2.5411
@@ -156,23 +156,23 @@ id,nom,pseudonyme,latitude,longitude
 154,Suzanne Levy,,48.7641,2.355
 155,Marguerite Reynaud,,48.8869,2.1168
 156,Geneviève-Hélène Aubry,,49.0706,2.3582
-157,Arthur Lemonnier,Trouble,48.9951,2.4652
+157,Arthur Lemonnier,Joker,48.9951,2.4652
 158,Michelle Le Charles,,49.0607,2.5521
 159,Marcelle Buisson,,49.0539,2.233
 160,Henri-Christophe Perez,,49.0624,2.3965
 161,Denise-Madeleine Samson,,48.7385,2.307
 162,Joseph Ruiz,,48.6439,2.2406
-163,Joseph Le Rousset,Flames,48.8447,2.1281
-164,Denise Duhamel,Chuey,48.6631,2.4138
+163,Joseph Le Rousset,Cartoon,48.8447,2.1281
+164,Denise Duhamel,She-devil,48.6631,2.4138
 165,Christiane Bazin,,48.6879,2.2655
 166,Thomas Benard,,48.8865,2.3141
 167,Adèle Leroy,,49.1046,2.1901
 168,Andrée Paul,,48.9182,2.5704
-169,Bernadette Pons,Dopey,48.8015,2.1103
+169,Bernadette Pons,Girl,48.8015,2.1103
 170,Sébastien Pruvost,,49.024,2.4369
 171,Constance du Laurent,,48.8806,2.2083
 172,Diane Lamy,,48.8562,2.2054
-173,Amélie Marion,Dog,48.9883,2.5264
+173,Amélie Marion,Ginger,48.9883,2.5264
 174,Nicole-Adrienne Francois,,48.7835,2.4908
 175,Louise de la Rossi,,49.0703,2.1624
 176,Margaux de Hamon,,49.0005,2.1758
@@ -180,14 +180,14 @@ id,nom,pseudonyme,latitude,longitude
 178,Olivier Laurent-Duval,,49.0525,2.256
 179,Pierre Sanchez-Guillaume,,48.9946,2.4482
 180,Marcel Navarro,,48.9996,2.1394
-181,Antoine Chauvet du Laine,She-wolf,48.7195,2.4499
+181,Antoine Chauvet du Laine,Baby,48.7195,2.4499
 182,Gabrielle de la Briand,,49.0792,2.5054
 183,Lucie Lenoir,,48.668,2.4184
-184,Henri Perrier,Flaco,48.6119,2.595
+184,Henri Perrier,Tank,48.6119,2.595
 185,Jérôme Guichard,,48.7195,2.2644
 186,Constance Fabre,,49.0128,2.1937
-187,Benjamin Diallo,Dollar,48.762,2.5229
-188,Dominique Martins,Creeper,48.8837,2.5394
+187,Benjamin Diallo,Tramposo,48.762,2.5229
+188,Dominique Martins,Cisco,48.8837,2.5394
 189,Eugène de Costa,,48.9425,2.5928
 190,Inès Martins de la Morel,,49.0029,2.251
 191,Richard Le Robert,,49.0517,2.4918
@@ -205,7 +205,7 @@ id,nom,pseudonyme,latitude,longitude
 203,Frédérique-Margaux Philippe,,48.7815,2.2589
 204,Henri de la Paul,,48.6108,2.1192
 205,Olivie Thibault,,48.9901,2.1582
-206,Bernadette Marty,Medusa,49.048,2.556
+206,Bernadette Marty,Stiletto,49.048,2.556
 207,Hortense Rodriguez,,48.9385,2.1343
 208,Jean Dijoux du Lambert,,48.7588,2.2655
 209,David de Peron,,48.7994,2.3241
@@ -228,14 +228,14 @@ id,nom,pseudonyme,latitude,longitude
 226,Anastasie Fleury,,49.0303,2.3142
 227,Christine-Zoé Cousin,,49.0556,2.4572
 228,Alain-Denis Bodin,,48.9183,2.4986
-229,Noémi Girard,Frosty,48.634,2.201
+229,Noémi Girard,Swifty,48.634,2.201
 230,Gilbert Vaillant,,49.0427,2.1181
 231,Maurice Martin du Guillet,,48.611,2.375
 232,Simone Lombard,,48.8522,2.2404
 233,Étienne Gay,,48.9192,2.2343
 234,Christelle-Colette Chauvet,,48.9433,2.2021
-235,Pierre Dumas,Princess,49.1033,2.4471
-236,Dorothée Guichard,Breaker,48.683,2.5878
+235,Pierre Dumas,Hammer,49.1033,2.4471
+236,Dorothée Guichard,Puppet,48.683,2.5878
 237,Agnès Germain,,48.7683,2.1655
 238,Monique Gaillard-Duhamel,,48.6847,2.1049
 239,Adèle Boutin,,48.6871,2.2168
@@ -253,7 +253,7 @@ id,nom,pseudonyme,latitude,longitude
 251,Alphonse de la Julien,,48.9333,2.4255
 252,Henriette Boulay,,49.0005,2.4481
 253,Julie Jacquet,,48.7317,2.4476
-254,Véronique Pons,Shorty,48.8526,2.1592
+254,Véronique Pons,Vamp,48.8526,2.1592
 255,Vincent Le Weber,,48.7138,2.2231
 256,Christine Guyot-Poulain,,48.7529,2.3196
 257,Astrid Bouvet du Benoit,,48.7866,2.4516
@@ -261,14 +261,14 @@ id,nom,pseudonyme,latitude,longitude
 259,Christine Muller,,48.7374,2.5726
 260,Pénélope Besson,,48.6389,2.1391
 261,Jules de De Oliveira,,48.8251,2.28
-262,David Sanchez,Silver,48.7402,2.3218
+262,David Sanchez,Spooky,48.7402,2.3218
 263,Nathalie Le Martineau,,48.7522,2.2878
 264,Martine de Gilles,,48.9042,2.1624
 265,Stéphanie Godard Le Maillard,,48.6525,2.5688
 266,Joseph Gregoire,,48.8352,2.2392
 267,Isaac David,,48.6395,2.5237
 268,Auguste Bonnin,,48.9867,2.5736
-269,Joseph Daniel,Tank,49.0643,2.4987
+269,Joseph Daniel,Electra,49.0643,2.4987
 270,Patricia Denis,,48.6904,2.432
 271,André Thierry de Brunet,,48.9799,2.567
 272,Hugues Blanc Le Schneider,,48.8038,2.2812
@@ -276,14 +276,14 @@ id,nom,pseudonyme,latitude,longitude
 274,Jules Guillot,,48.8947,2.5443
 275,Audrey Renaud-Tanguy,,49.0112,2.4866
 276,Danielle Roche,,48.7311,2.1316
-277,Jules-Tristan Langlois,Stiletto,48.988,2.2726
+277,Jules-Tristan Langlois,Bouncer,48.988,2.2726
 278,Thomas Couturier,,48.9576,2.5674
 279,Alexandria Sauvage,,48.7748,2.4137
 280,Émile Boutin-Coste,,49.0957,2.2164
 281,Capucine de Chauveau,,48.9075,2.3186
 282,Adèle Huet,,48.7446,2.5023
-283,Antoinette Hebert,Rascal,48.9845,2.4946
-284,Franck Marty,Bad,48.7019,2.4387
+283,Antoinette Hebert,Knuckles,48.9845,2.4946
+284,Franck Marty,Caprice,48.7019,2.4387
 285,Raymond Launay,,48.8549,2.5602
 286,Benjamin-Franck Nicolas,,49.0489,2.5881
 287,Denise de Goncalves,,48.8822,2.2284
@@ -291,21 +291,21 @@ id,nom,pseudonyme,latitude,longitude
 289,Claudine Salmon,,48.7922,2.5644
 290,Alice Ruiz,,49.0655,2.3311
 291,Denis Begue-Guyot,,49.0048,2.2428
-292,Benjamin Gautier,Crazy,48.6167,2.3365
+292,Benjamin Gautier,Bad,48.6167,2.3365
 293,Sabine Hamon de la Le Gall,,49.0605,2.2644
 294,André Guillot-Georges,,48.9566,2.2205
 295,Alfred Morvan,,48.9516,2.4703
 296,Paul Arnaud,,48.6463,2.2197
-297,Olivier Lopez,Reaper,48.616,2.1133
+297,Olivier Lopez,She-wolf,48.616,2.1133
 298,Nathalie Pineau,,48.7643,2.3156
 299,Benoît Leveque-Garnier,,49.0203,2.4912
 300,Henriette Guichard,,48.8814,2.3227
 301,Joseph-Benoît Lejeune,,48.6216,2.5379
+302,Odette Renard du Michaud,Duchess,48.7832,2.259
 303,Thibaut Roussel,,48.6681,2.3005
 304,Adrien Laroche-Da Silva,,48.7154,2.2438
 305,Roland Fouquet,,49.0689,2.1547
 306,Cécile Maury,,48.9347,2.5757
-307,Gabriel Le Schneider,,48.8161,2.3073
 308,Étienne Camus,,48.8726,2.5234
 309,Émilie Henry-Laurent,,48.7255,2.2301
 310,Laure de Lemaire,,48.9007,2.4194
@@ -318,7 +318,7 @@ id,nom,pseudonyme,latitude,longitude
 317,Hortense-Margaux Godard,,48.747,2.1896
 318,Augustin Lejeune,,48.8776,2.2492
 319,Zacharie Lelievre,,49.0434,2.106
-320,Christiane Fernandez,Widow,48.6304,2.3593
+320,Christiane Fernandez,Medusa,48.6304,2.3593
 321,Valentine de la Garnier,,48.9262,2.1345
 322,Élise Gomez-Verdier,,49.0231,2.5206
 323,Augustin-Eugène Charrier,,48.7187,2.3529
@@ -328,7 +328,7 @@ id,nom,pseudonyme,latitude,longitude
 327,Stéphane Duhamel,,48.7809,2.5609
 328,Renée Schmitt,,48.8506,2.1952
 329,Martine Chauvet-Perrier,,48.6288,2.4517
-330,Madeleine Gauthier-Gaillard,Red,49.1027,2.3
+330,Madeleine Gauthier-Gaillard,Big,49.1027,2.3
 331,William de Briand,,49.0744,2.4089
 332,Nicole Herve,,48.8427,2.1493
 333,Stéphane Menard-Blanchard,,48.7113,2.2215
@@ -338,7 +338,7 @@ id,nom,pseudonyme,latitude,longitude
 337,Brigitte Marion,,49.0646,2.6005
 338,Marthe-Aurélie Morvan,,48.6716,2.4137
 339,Stéphanie Foucher du Royer,,48.8841,2.1513
-340,Laure Faure,Playboy,48.6427,2.2383
+340,Laure Faure,Red,48.6427,2.2383
 341,Joséphine-Marguerite Clerc,,48.9022,2.5093
 342,Richard-Alphonse Lebrun,,48.7548,2.1513
 343,Zoé Guibert de la Levy,,48.6893,2.3624
@@ -347,4 +347,4 @@ id,nom,pseudonyme,latitude,longitude
 346,Claudine du Peltier,,48.6565,2.3166
 347,Odette Thibault,,48.9868,2.5231
 348,Alice Benoit-Traore,,48.9067,2.174
-302,Odette Renard du Michaud,,48.7832,2.259
+307,Gabriel Le Schneider,,48.8161,2.3073

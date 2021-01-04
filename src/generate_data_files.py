@@ -17,7 +17,6 @@ from helpers import identify_crime_type_country, identify_moriarty
 
 from helpers import seed  # change the seed in helpers to change the generated data
 
-random.seed(seed)
 Faker.seed(seed)
 faker = Faker()
 
@@ -67,9 +66,12 @@ def generate_aliases(df, n_agents):
     with open('./extra_data/aliases.txt', 'r') as f:
         aliases = [i.capitalize() for i in f.read().split()]
 
-    aliases_unique = list(set(aliases))
-    aliases = aliases_unique + ["" for i in range(n_agents - len(aliases_unique))]
+    print("Len original aliases: {}".format(len(aliases)))
+    aliases = sorted(list(set(aliases)))
+    empty_string_list = ["" for i in range(n_agents - len(aliases))]
+    aliases.extend(empty_string_list)
     random.shuffle(aliases)
+    print("Aliases: {}".format(aliases[0:14]))
 
     df['alias'] = pd.Series(aliases)  # create a column from the list
 
@@ -138,8 +140,9 @@ def add_date_not_sunday(value):
 def add_moriarty_profile(df, crime_type_, country_):
     """Makes sure the solution's date is not 'Sunday' and alias is None."""
 
-    df_moriarty = df.loc[(df.country == country_) & (df.crime_type == crime_type_)] \
-        .sort_values('profit', ascending=False).reset_index()
+    df_moriarty = df.loc[(df.country == country_) & (df.crime_type == crime_type_) & \
+                        (df.weekday != 'Sunday') & (df.alias == "")] \
+                      .sort_values('profit', ascending=False).reset_index()
     hidden_moriarty_name = df_moriarty.name[0]
     # print("Moriarty name: {}".format(hidden_moriarty_name))
     df_moriarty = df.loc[df.name == hidden_moriarty_name]

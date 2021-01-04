@@ -13,10 +13,10 @@ id,benennen,aliasnamen,breitengrad,länge
 11,Arie van Baalen,,52.5425,4.7181
 12,Cornelis van Ghoerle,,52.3648,4.6635
 13,Leah Winters,,52.1723,5.1219
-14,Maarten van de Leemput,Kitten,52.42,4.8025
+14,Maarten van de Leemput,Amazon,52.42,4.8025
 15,Sepp Pastoors-Broeders,,52.5226,5.1078
 16,Annemijn Tillmanno-Miltenburg,,52.4683,4.9018
-17,Luna Bolkesteijn-de Man,Clumsy,52.1571,4.7286
+17,Luna Bolkesteijn-de Man,Paiyaso,52.1571,4.7286
 18,Dylano van der Meulen,,52.2937,4.8678
 19,Stella Hofman,,52.3857,4.6801
 20,Cornelis Giselmeyer,,52.381,5.0115
@@ -24,7 +24,7 @@ id,benennen,aliasnamen,breitengrad,länge
 22,Tijn Barents,,52.4731,4.7629
 23,Mara van Herstal,,52.1276,4.8425
 24,Rayan de Jong-le Luc,,52.1733,5.0936
-25,Lily Walter,Swifty,52.3557,4.7229
+25,Lily Walter,Tequila,52.3557,4.7229
 26,Jay Eerden,,52.2126,4.9018
 27,Nynke Bernaards,,52.3516,4.7974
 28,Noortje Bellemans,,52.4207,4.9842
@@ -38,17 +38,17 @@ id,benennen,aliasnamen,breitengrad,länge
 36,Simon Wolters,,52.5322,5.0318
 37,Fleur van der Heyden-Persijn,,52.614,5.0883
 38,Robin van Boven,,52.5829,4.9037
-39,Cornelis Bud,Travieso,52.2907,4.6801
+39,Cornelis Bud,Guero,52.2907,4.6801
 40,Lise de Graaf,,52.2076,5.0848
 41,Jelte de Strigter-Lips,,52.3161,4.8481
 42,Jelle Keijser-van 't Houteveen,,52.5826,4.7068
-43,Muhammed Arent,Gambino,52.4567,5.1441
+43,Muhammed Arent,Flames,52.4567,5.1441
 44,Elisabeth Symons-Teunissen,,52.1292,4.7656
 45,Kick Spier-van Ham,,52.4215,4.7527
 46,Benthe Genefaas,,52.2896,4.7146
 47,Emir Brands,,52.1892,5.1332
 48,Hidde Lagerweij,,52.4653,5.1316
-49,Loïs Massa,Freestyle,52.453,5.0958
+49,Loïs Massa,Little,52.453,5.0958
 50,Sepp van Maaren-van Oudewater,,52.4057,4.6702
 51,Keano van der Spaendonck,,52.2627,4.8175
 52,Silke Brandt,,52.3095,4.8479
@@ -56,7 +56,7 @@ id,benennen,aliasnamen,breitengrad,länge
 54,Brian Spiker-Guit,,52.5507,4.7387
 55,Sienna Vermeulen-van der Pol,,52.49,4.7884
 56,Liv Estey,,52.5239,4.6474
-57,Mia Vial,Kiki,52.486,4.9775
+57,Mia Vial,Freckles,52.486,4.9775
 58,Liam Coolen-Bruggeman,,52.4303,4.8789
 59,Aya Gnodde,,52.5392,4.8614
 60,Nathan Furda,,52.1668,5.1344
@@ -70,15 +70,15 @@ id,benennen,aliasnamen,breitengrad,länge
 68,Anouk de Jode Vastraedsd,,52.5013,4.6464
 69,Bente de Boer,,52.3718,4.7205
 70,Sjoerd van Engeland-Kok,,52.5451,4.6471
-71,Gerrit van Amstel,Guero,52.224,4.8003
+71,Gerrit van Amstel,Sleepy,52.224,4.8003
 72,Rowan Briere,,52.1814,4.7635
-73,Jan Goyaerts van Waderle,Flako,52.3291,4.7737
+73,Jan Goyaerts van Waderle,Kitten,52.3291,4.7737
 74,Lindsey Pons,,52.5599,5.0108
 75,Tim van Riet,,52.2972,4.6697
 76,Sanne Stange-Vergeer,,52.5173,4.8597
-77,Rayan Adryaens,Gangster,52.1616,4.7246
-78,Marinus Bellemans,Madam,52.4286,4.8612
-79,Jolie Dorsman-Honing,Wicked,52.3047,5.0818
+77,Rayan Adryaens,Satan,52.1616,4.7246
+78,Marinus Bellemans,Gunner,52.4286,4.8612
+79,Jolie Dorsman-Honing,Chains,52.3047,5.0818
 80,Sarah Bijlsma,,52.5332,5.0974
 81,Ayoub Ouwel,,52.1943,5.0817
 82,Imran Buijs,,52.3498,4.97
@@ -95,7 +95,7 @@ id,benennen,aliasnamen,breitengrad,länge
 93,Ella de Wit,,52.1913,5.1401
 94,Bart Molen,,52.2126,5.0371
 95,Eline Stamrood,,52.3072,4.9064
-96,Noortje Demmendaal,Miklo,52.3363,5.088
+96,Noortje Demmendaal,Crow,52.3363,5.088
 97,Mara Draaisma,,52.4418,4.7416
 98,Noëlle Stamrood,,52.5454,4.855
 99,Jolie Brands-van Noordeloos,,52.5468,4.7678
@@ -112,7 +112,7 @@ id,benennen,aliasnamen,breitengrad,länge
 110,Jesse van Emmelen,,52.5292,5.0613
 111,Lola van den Heuvel,,52.1394,5.0092
 112,Naud Bave,,52.2577,4.7913
-113,Livia de Roo-Jansen,Pussy,52.5168,4.8704
+113,Livia de Roo-Jansen,Princess,52.5168,4.8704
 114,Nova Uphuis,,52.4123,4.6859
 115,Matthijs die Bont,,52.5444,4.8837
 116,Norah Vertooren-Dijkstra,,52.4433,4.713
@@ -128,26 +128,26 @@ id,benennen,aliasnamen,breitengrad,länge
 126,Floortje Dekker-Schroeff,,52.1238,4.9969
 127,Floor Verda,,52.264,4.7083
 128,Ben van den Brand,,52.3658,4.7426
-129,Maya le Gulcher,Punch,52.1747,4.7479
+129,Maya le Gulcher,Al,52.1747,4.7479
 130,Nadine van der Ven,,52.2952,4.9612
 131,Bastiaan Willems,,52.526,4.9145
 132,Angelina Le Marec,,52.2239,4.7985
 133,Dana Schiffer,,52.1366,5.0648
-134,Kim van Beieren,Knuckles,52.2626,4.6823
+134,Kim van Beieren,Magic,52.2626,4.6823
 135,Quinty Maas,,52.4436,4.8436
 136,Boris Wilcken,,52.2668,4.9808
 137,Dean van Ooyen,,52.4647,4.9688
 138,Jenna Eelman-Korsman,,52.2125,4.7582
-139,Dave Timmermans-Verda,Cartoon,52.3743,5.0303
+139,Dave Timmermans-Verda,One,52.3743,5.0303
 140,Megan Heijman-Ouwerkerk,,52.198,5.0045
-141,Dana van Tours,Trap,52.2459,4.9414
+141,Dana van Tours,Pelon,52.2459,4.9414
 142,Indy Jacquot-Melet,,52.5006,5.0948
-143,Loes van de Leemput-van Evelingen,Vixen,52.4208,4.8906
+143,Loes van de Leemput-van Evelingen,Loco,52.4208,4.8906
 144,Adriana Vastenhouw,,52.5395,5.0958
 145,Morris Molen,,52.5217,4.7369
 146,Tess VI,,52.5759,4.799
 147,Vera van der Klein-Rijcken,,52.3555,4.7491
-148,Nynke Bosch,Puppet,52.2745,4.8422
+148,Nynke Bosch,Slim,52.2745,4.8422
 149,Lynn Mathieu,,52.4436,5.1048
 150,Adam van de Pol-Konings,,52.5674,4.8518
 151,Dylan Meyer,,52.1534,5.0098
@@ -164,23 +164,23 @@ id,benennen,aliasnamen,breitengrad,länge
 162,Elena van Haspengouw Hesbaye-Vandenbergh,,52.1485,5.0517
 163,Loes Elbertse,,52.2627,5.0684
 164,Mike Hendriks,,52.3315,4.907
-165,Levi Lommert,Tramposo,52.3749,5.1332
+165,Levi Lommert,Silver,52.3749,5.1332
 166,Aylin Jasperdr.,,52.3017,4.9672
 167,Felix Koning,,52.3109,5.0988
 168,Mika Schilt,,52.1546,5.0456
 169,Bibi Bolkesteijn,,52.4996,5.0781
 170,Teun Mathurin-Phillipsen,,52.2821,5.0854
-171,Sander Hoppenbrouwer,Sinister,52.203,5.067
+171,Sander Hoppenbrouwer,Nevada,52.203,5.067
 172,Liam Bruynzeels,,52.1549,4.6863
-173,Jules Hoedemakers-Coret,Cruzito,52.2045,4.9143
+173,Jules Hoedemakers-Coret,Gizmo,52.2045,4.9143
 174,Giovanni van Jumiège,,52.4145,5.0608
 175,Isa Kleijse,,52.3504,4.7305
 176,Sofie de Bruijn,,52.5004,4.9393
-177,Lex de Vries,Vex,52.2779,4.9319
+177,Lex de Vries,Shorty,52.2779,4.9319
 178,Ivan van Nederlotharingen,,52.1967,5.0863
 179,Aron Schagen,,52.3009,4.9797
 180,Esmee Claesner,,52.3915,4.8078
-181,Lizz Olykan,Noir,52.3099,4.9074
+181,Lizz Olykan,Goldie,52.3099,4.9074
 182,Hidde van Dongen,,52.4145,4.9553
 183,Saar Elbertse,,52.5742,4.9152
 184,Catharina Dijkman,,52.2248,4.9115
@@ -191,7 +191,7 @@ id,benennen,aliasnamen,breitengrad,länge
 189,Puk van Arkel,,52.1461,5.1083
 190,Luuk van Hemert,,52.2985,4.8356
 191,Thom Moenen,,52.1657,5.1147
-192,Naud Steenbakkers,Spooky,52.2851,5.0695
+192,Naud Steenbakkers,Angel,52.2851,5.0695
 193,Levi van de Eerenbeemt,,52.3935,4.9496
 194,Juul Grondel-Jeggij,,52.2507,5.1016
 195,Jens Hoedemakers,,52.4853,4.8324
@@ -213,18 +213,18 @@ id,benennen,aliasnamen,breitengrad,länge
 211,Daan Heerkens-Boddaugh,,52.4669,4.7282
 212,Kyara Adryaens-van Limburg,,52.4836,4.8752
 213,Janna Thatcher,,52.5934,4.7444
-214,Sofie Schilt,Short,52.1741,4.8748
+214,Sofie Schilt,Blaze,52.1741,4.8748
 215,Milou Krabbe-Strijker,,52.4446,4.9279
 216,Elizabeth Spaan-Arnold,,52.4845,4.9777
 217,Sienna de Kok,,52.1396,4.8988
 218,Feline Meyer,,52.4765,5.0671
-219,Victoria de Leeuw,Ghost,52.3013,4.7951
+219,Victoria de Leeuw,Montana,52.3013,4.7951
 220,Kay Thout,,52.468,5.0955
 221,Yasmin van de Water,,52.4495,4.8392
 222,Sofie Brumleve,,52.5443,5.0685
-223,Simon de Bruin,G,52.3881,5.0744
+223,Simon de Bruin,Popoye,52.3881,5.0744
 224,Daniel van de Biesenbos-d' Heripon,,52.1497,4.931
-225,Carlijn Aertsz,Goldie,52.3875,4.6713
+225,Carlijn Aertsz,Negro,52.3875,4.6713
 226,Jort van der Pluijm,,52.3695,5.0645
 227,Tijn Pasman,,52.4896,4.7332
 228,Lize Brugman,,52.5268,4.8426
@@ -239,7 +239,7 @@ id,benennen,aliasnamen,breitengrad,länge
 237,Lucy Volcke-de Haan,,52.3154,4.729
 238,Selina Mahieu,,52.2997,4.8917
 239,Kian Verhagen,,52.3443,4.9626
-240,Liv Erhout,Spyder,52.4051,5.0735
+240,Liv Erhout,Ghost,52.4051,5.0735
 241,Bilal Koeman,,52.4774,4.6728
 242,Fedde van Egisheim,,52.2837,4.7332
 243,Myrthe Winters,,52.2946,4.7469

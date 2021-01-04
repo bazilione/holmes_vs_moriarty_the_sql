@@ -1,6 +1,4 @@
 import os
-from faker.generator import random
-import pandas as pd
 from datetime import datetime
 
 from faker import Faker
@@ -69,12 +67,11 @@ def identify_moriarty(df, seed, save=True):
     moriarty_name and saves to './solution' folder.
     """
     crime_type_big_sales, country_with_top_sales = identify_crime_type_country(df)
-
+    df = df.fillna({"alias": ""})
     df = df.loc[
                     (df["crime_type"] == crime_type_big_sales) &
                     (df["country"] == country_with_top_sales) &
-                    (df.alias == "") &
-                    (df.weekday != "Sunday")
+                    (df.alias == "")
                     ]
 
     df = df.sort_values('profit', ascending=False).reset_index()

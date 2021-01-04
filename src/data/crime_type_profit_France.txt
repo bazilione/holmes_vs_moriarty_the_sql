@@ -301,11 +301,11 @@ name crime_type profit
 "Benoît Leveque-Garnier" theft 94
 "Henriette Guichard" pickpocketing 3
 "Joseph-Benoît Lejeune" robbery 878
+"Odette Renard du Michaud" "weapons sale" 498000
 "Thibaut Roussel" theft 255
 "Adrien Laroche-Da Silva" theft 61
 "Roland Fouquet" robbery 274
 "Cécile Maury" forgery 567
-"Gabriel Le Schneider" "weapons sale" 493000
 "Étienne Camus" pickpocketing 46
 "Émilie Henry-Laurent" pickpocketing 20
 "Laure de Lemaire" "drug sale" 42480
@@ -347,4 +347,4 @@ name crime_type profit
 "Claudine du Peltier" theft 368
 "Odette Thibault" theft 105
 "Alice Benoit-Traore" pickpocketing 2
-"Odette Renard du Michaud" "weapons sale" 498000
+"Gabriel Le Schneider" "weapons sale" 493000

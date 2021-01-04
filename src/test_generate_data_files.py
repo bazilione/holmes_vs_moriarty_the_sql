@@ -87,6 +87,6 @@ def test_generate_df_with_criminals():
     # check that using the generated 'df_out' Moriarty's name is correct
     moriarty_name = identify_moriarty(df_out, seed, save=False)
 
-    assert moriarty_name == 'Odette Renard du Michaud',  \
-        """Moriarty name should be Odette Renard du Michaud for seed 1234. 
+    assert moriarty_name == 'Gabriel Le Schneider',  \
+        """Moriarty name should be Gabriel Le Schneider for seed 1234. 
             Got: {} for seed {}""".format(moriarty_name, seed)
