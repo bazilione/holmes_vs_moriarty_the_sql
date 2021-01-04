@@ -19,11 +19,9 @@ Solve the puzzle using the prepared notebook templates:
 The user can generate the data (saved to the 'data' folder as .csv and .txt files).  
 Changing the seed (in 'helpers.py') will change the data (and the correct answer).
   
-Alternatively, the user can use the precreated data (generated with '1234' seed).  
-The data can be recreated using the same seed.  
-  
-To generate puzzle data, after the setup run the script 'generate_data_files.py' or  
-open and run 'generate_data_files.ipynb' jupyter notebook.  
+Alternatively, the user can use the supplied data (generated with '1234' seed).  
+The data can be recreated using the same seed. To generate new puzzle data change the seed 
+in helpers.py and run the script 'generate_data_files.py'.  
   
 The correct answer is generated during data generation process and is saved  
 in 'solution/moriarty_name.txt' file. Along with the answer, if needed for comparison or  
@@ -44,11 +42,20 @@ cd holmes_moriarty_sql
 python3 -m venv env  
 source env/bin/activate  
 pip install -- requirements.txt  
-cd src 
+cd src  
+  
+# Testing:  
+# in src folder run:
+pytest  
+  
 # to launch jupyter notebook
 jupyter notebook  
-
-
-#  License
+  
+#  License  
 Users and developers are encouraged to modify the code and add new puzzles.
 Referencing the original creator (Vasily Kerov) is appreciated.
+
+#  Acknowledgements  
+I thank Joan Phar for her help in reviewing and testing.  
+  
+
