@@ -38,7 +38,7 @@ Installation on a Linux-like terminal (includes MacOS).
 
   
 In a folder with your projects:  
-git clone https://github.com/bazilione/holmes_vs_moriarty_the_sql.git
+git clone https://github.com/bazilione/holmes_vs_moriarty_the_sql.git  
 cd holmes_moriarty_sql    
 python3 -m venv env  
 source env/bin/activate  
